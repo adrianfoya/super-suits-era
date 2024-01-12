@@ -1,0 +1,611 @@
+{
+    "event":{
+        "50free":{
+            "male":{
+                "#1":{
+                    "time":20.91,
+                    "name":"Cesar Cielo",
+                    "year":2009,
+                    "wr":true
+                },
+                "#2":{
+                    "time":20.94,
+                    "name":"Frederick Bousquet",
+                    "year":2009,
+                    "wr":true
+                },
+                "#3":{
+                    "time":21.04,
+                    "name":"Caeleb Dressel",
+                    "year":2021,
+                    "wr":false
+                },
+                "#4":{
+                    "time":21.04,
+                    "name":"Caeleb Dressel",
+                    "year":2019,
+                    "wr":false
+                },
+                "#5":{
+                    "time":21.06,
+                    "name":"Cameron Mcevoy",
+                    "year":2023,
+                    "wr":false
+                },
+                "#6":{
+                    "time":21.07,
+                    "name":"Caeleb Dressel",
+                    "year":2021,
+                    "wr":false
+                },
+                "#7":{
+                    "time":21.08,
+                    "name":"Cesar Cielo",
+                    "year":2009,
+                    "wr":false
+                },
+                "#8":{
+                    "time":21.11,
+                    "name":"Benjamin Proud",
+                    "year":2018,
+                    "wr":false
+                },
+                "#9":{
+                    "time":21.15,
+                    "name":"Caeleb Dressel",
+                    "year":2017,
+                    "wr":false
+                },
+                "#10":{
+                    "time":21.16,
+                    "name":"Benjamin Proud",
+                    "year":2018,
+                    "wr":false
+                },
+                "#11":{
+                    "time":21.18,
+                    "name":"Caeleb Dressel",
+                    "year":2019,
+                    "wr":false
+                },
+                "#12":{
+                    "time":21.19,
+                    "name":"Florent Manaudou",
+                    "year":2015,
+                    "wr":false
+                },
+                "#13":{
+                    "time":21.19,
+                    "name":"Ashley Callus",
+                    "year":2009,
+                    "wr":false
+                },
+                "#14":{
+                    "time":21.20,
+                    "name":"George Bovell",
+                    "year":2009,
+                    "wr":false
+                },
+                "#15":{
+                    "time":21.21,
+                    "name":"Frederick Bousquet",
+                    "year":2009,
+                    "wr":false
+                },
+                "#16":{
+                    "time":21.21,
+                    "name":"Frederick Bousquet",
+                    "year":2009,
+                    "wr":false
+                },
+                "#17":{
+                    "time":21.25,
+                    "name":"Cameron Mcevoy",
+                    "year":2023,
+                    "wr":false
+                },
+                "#18":{
+                    "time":21.25,
+                    "name":"Amaury Leveaux",
+                    "year":2009,
+                    "wr":false
+                },
+                "#19":{
+                    "time":21.27,
+                    "name":"Cameron Mcevoy",
+                    "year":2023,
+                    "wr":false
+                },
+                "#20":{
+                    "time":21.27,
+                    "name":"Vladimir Morozov",
+                    "year":2019,
+                    "wr":false
+                },
+                "#21":{
+                    "time":21.27,
+                    "name":"Bruno Fratus",
+                    "year":2017,
+                    "wr":false
+                },
+                "#22":{
+                    "time":21.28,
+                    "name":"Eamon Sullivan",
+                    "year":2008,
+                    "wr":true
+                },
+                "#23":{
+                    "time":21.29,
+                    "name":"Caeleb Dressel",
+                    "year":2022,
+                    "wr":false
+                },
+                "#24":{
+                    "time":21.29,
+                    "name":"Caeleb Dressel",
+                    "year":2021,
+                    "wr":false
+                },
+                "#25":{
+                    "time":21.29,
+                    "name":"Caeleb Dressel",
+                    "year":2017,
+                    "wr":false
+                },
+                "#26":{
+                    "time":21.29,
+                    "name":"Duje Draganja",
+                    "year":2009,
+                    "wr":false
+                },
+                "#27":{
+                    "time":21.30,
+                    "name":"Benjamin Proud",
+                    "year":2018,
+                    "wr":false
+                },
+                "#28":{
+                    "time":21.30,
+                    "name":"Cesar Cielo",
+                    "year":2008,
+                    "wr":false
+                },
+                "#29":{
+                    "time":21.31,
+                    "name":"Bruno Fratus",
+                    "year":2019,
+                    "wr":false
+                },
+                "#30":{
+                    "time":21.32,
+                    "name":"Benjamin Proud",
+                    "year":2022,
+                    "wr":false
+                },
+                "#31":{
+                    "time":21.32,
+                    "name":"Caeleb Dressel",
+                    "year":2021,
+                    "wr":false
+                },
+                "#32":{
+                    "time":21.32,
+                    "name":"Benjamin Proud",
+                    "year":2017,
+                    "wr":false
+                },
+                "#33":{
+                    "time":21.32,
+                    "name":"Florent Manaudou",
+                    "year":2016,
+                    "wr":false
+                },
+                "#34":{
+                    "time":21.32,
+                    "name":"Florent Manaudou",
+                    "year":2014,
+                    "wr":false
+                },
+                "#35":{
+                    "time":21.32,
+                    "name":"Cesar Cielo",
+                    "year":2013,
+                    "wr":false
+                },
+                "#36":{
+                    "time":21.32,
+                    "name":"Amaury Leveaux",
+                    "year":2009,
+                    "wr":false
+                },
+                "#37":{
+                    "time":21.33,
+                    "name":"Cesar Cielo",
+                    "year":2009,
+                    "wr":false
+                },
+                "#38":{
+                    "time":21.34,
+                    "name":"Benjamin Proud",
+                    "year":2018,
+                    "wr":false
+                },
+                "#39":{
+                    "time":21.34,
+                    "name":"Florent Manaudou",
+                    "year":2012,
+                    "wr":false
+                },
+                "#40":{
+                    "time":21.34,
+                    "name":"Cesar Cielo",
+                    "year":2008,
+                    "wr":false
+                },
+                "#41":{
+                    "time":21.35,
+                    "name":"Cameron Mcevoy",
+                    "year":2023,
+                    "wr":false
+                },
+                "#42":{
+                    "time":21.35,
+                    "name":"Bruno Fratus",
+                    "year":2018,
+                    "wr":false
+                },
+                "#43":{
+                    "time":21.35,
+                    "name":"Bruno Fratus",
+                    "year":2018,
+                    "wr":false
+                },
+                "#44":{
+                    "time":21.35,
+                    "name":"Benjamin Proud",
+                    "year":2018,
+                    "wr":false
+                },
+                "#45":{
+                    "time":21.35,
+                    "name":"Cesar Cielo",
+                    "year":2009,
+                    "wr":false
+                },
+                "#46":{
+                    "time":21.36,
+                    "name":"Benjamin Proud",
+                    "year":2022,
+                    "wr":false
+                },
+                "#47":{
+                    "time":21.36,
+                    "name":"Frederick Bousquet",
+                    "year":2010,
+                    "wr":false
+                },
+                "#48":{
+                    "time":21.37,
+                    "name":"Andrea Vergani",
+                    "year":2018,
+                    "wr":false
+                },
+                "#49":{
+                    "time":21.37,
+                    "name":"Nathan Adrian",
+                    "year":2015,
+                    "wr":false
+                },
+                "#50":{
+                    "time":21.37,
+                    "name":"Cesar Cielo",
+                    "year":2009,
+                    "wr":false
+                }
+                
+            },
+            "female":{
+                "#1":{
+                    "time":23.61,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":true
+                },
+                "#2":{
+                    "time":23.62,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#3":{
+                    "time":23.67,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":true
+                },
+                "#4":{
+                    "time":23.69,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#5":{
+                    "time":23.73,
+                    "name":"Britta Steffen",
+                    "year":2009,
+                    "wr":true
+                },
+                "#6":{
+                    "time":23.74,
+                    "name":"Sarah Sjoestroem",
+                    "year":2018,
+                    "wr":false
+                },
+                "#7":{
+                    "time":23.75,
+                    "name":"Pernille Blume",
+                    "year":2018,
+                    "wr":false
+                },
+                "#8":{
+                    "time":23.78,
+                    "name":"Sarah Sjoestroem",
+                    "year":2019,
+                    "wr":false
+                },
+                "#9":{
+                    "time":23.78,
+                    "name":"Cate Campbell",
+                    "year":2018,
+                    "wr":false
+                },
+                "#10":{
+                    "time":23.79,
+                    "name":"Cate Campbell",
+                    "year":2018,
+                    "wr":false
+                },
+                "#11":{
+                    "time":23.81,
+                    "name":"Emma Mckeon",
+                    "year":2021,
+                    "wr":false
+                },
+                "#12":{
+                    "time":23.81,
+                    "name":"Cate Campbell",
+                    "year":2018,
+                    "wr":false
+                },
+                "#13":{
+                    "time":23.82,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#14":{
+                    "time":23.83,
+                    "name":"Sarah Sjoestroem",
+                    "year":2018,
+                    "wr":false
+                },
+                "#15":{
+                    "time":23.83,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#16":{
+                    "time":23.84,
+                    "name":"Cate Campbell",
+                    "year":2016,
+                    "wr":false
+                },
+                "#17":{
+                    "time":23.85,
+                    "name":"Pernille Blume",
+                    "year":2018,
+                    "wr":false
+                },
+                "#18":{
+                    "time":23.85,
+                    "name":"Ranomi Kromowidjojo",
+                    "year":2017,
+                    "wr":false
+                },
+                "#19":{
+                    "time":23.85,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#20":{
+                    "time":23.85,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#21":{
+                    "time":23.87,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#22":{
+                    "time":23.88,
+                    "name":"Cate Campbell",
+                    "year":2018,
+                    "wr":false
+                },
+                "#23":{
+                    "time":23.88,
+                    "name":"Therese Alshammar",
+                    "year":2009,
+                    "wr":false
+                },
+                "#24":{
+                    "time":23.90,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#25":{
+                    "time":23.91,
+                    "name":"Sarah Sjoestroem",
+                    "year":2022,
+                    "wr":false
+                },
+                "#26":{
+                    "time":23.91,
+                    "name":"Sarah Sjoestroem",
+                    "year":2019,
+                    "wr":false
+                },
+                "#27":{
+                    "time":23.92,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#28":{
+                    "time":23.92,
+                    "name":"Sarah Sjoestroem",
+                    "year":2018,
+                    "wr":false
+                },
+                "#29":{
+                    "time":23.92,
+                    "name":"Pernille Blume",
+                    "year":2018,
+                    "wr":false
+                },
+                "#30":{
+                    "time":23.93,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#31":{
+                    "time":23.93,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#32":{
+                    "time":23.93,
+                    "name":"Emma Mckeon",
+                    "year":2021,
+                    "wr":false
+                },
+                "#33":{
+                    "time":23.94,
+                    "name":"Cate Campbell",
+                    "year":2021,
+                    "wr":false
+                },
+                "#34":{
+                    "time":23.95,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#35":{
+                    "time":23.95,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#36":{
+                    "time":23.96,
+                    "name":"Sarah Sjoestroem",
+                    "year":2018,
+                    "wr":false
+                },
+                "#37":{
+                    "time":23.96,
+                    "name":"Sarah Sjoestroem",
+                    "year":2017,
+                    "wr":false
+                },
+                "#38":{
+                    "time":23.96,
+                    "name":"Cate Campbell",
+                    "year":2014,
+                    "wr":false
+                },
+                "#39":{
+                    "time":23.96,
+                    "name":"Fran Halsall",
+                    "year":2014,
+                    "wr":false
+                },
+                "#40":{
+                    "time":23.96,
+                    "name":"Magdalena Veldhius",
+                    "year":2009,
+                    "wr":true
+                },
+                "#41":{
+                    "time":23.97,
+                    "name":"Sarah Sjoestroem",
+                    "year":2023,
+                    "wr":false
+                },
+                "#42":{
+                    "time":23.97,
+                    "name":"Xiang Liu",
+                    "year":2021,
+                    "wr":false
+                },
+                "#43":{
+                    "time":23.97,
+                    "name":"Ranomi Kromowidjojo",
+                    "year":2021,
+                    "wr":false
+                },
+                "#44":{
+                    "time":21.97,
+                    "name":"Sarah Sjoestroem",
+                    "year":2019,
+                    "wr":false
+                },
+                "#45":{
+                    "time":23.97,
+                    "name":"Simone Manuel",
+                    "year":2017,
+                    "wr":false
+                },
+                "#46":{
+                    "time":23.97,
+                    "name":"Libby Lenton",
+                    "year":2008,
+                    "wr":true
+                },
+                "#47":{
+                    "time":23.98,
+                    "name":"Sarah Sjoestroem",
+                    "year":2022,
+                    "wr":false
+                },
+                "#48":{
+                    "time":23.98,
+                    "name":"Pernille Blume",
+                    "year":2018,
+                    "wr":false
+                },
+                "#49":{
+                    "time":23.98,
+                    "name":"Sarah Sjoestroem",
+                    "year":2014,
+                    "wr":false
+                },
+                "#50":{
+                    "time":23.99,
+                    "name":"Magdalena Veldhius",
+                    "year":2009,
+                    "wr":false
+                }
+            }
+        }
+    }
+}
