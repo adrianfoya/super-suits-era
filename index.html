@@ -3,6 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="./swimmer_scroll.js"></script>
+    <script src="js/jquery-3.7.1.min.js"></script>
     <title>La Era de los super trajes</title>
   </head>
   <body>
@@ -15,9 +17,49 @@
       /></h>
       <h id="author">por Adrián Navarro</h>
     </div>
-    <div id="main">
-        <img src="./img/Piscina.jpg" alt="pool" id="pool"/>
-        
+    <div id="main back">
+      <img src="./img/Piscina.jpg" alt="pool" id="pool" />
+      <img src="./img/Nadador.svg" alt="swimmer1" id="sw1" />
+      <p id="intro">Lorem ipsum dolor sit amet</p>
+      <script>
+        // Obtén la referencia a la imagen por su ID
+        var img = document.getElementById("sw1");
+
+        // Define el límite superior e inferior para la posición de la imagen
+        var limiteSuperior = 800; // Este es el límite superior en píxeles
+        var limiteInferior = 2500; // Este es el límite inferior en píxeles
+
+        // URL de las imágenes que quieres alternar
+        var imagen1 = "./img/Nadador.svg";
+        var imagen2 = "./img/Nadador2.svg";
+
+        // Función para actualizar la imagen y la posición
+        function alternarImagenYPosicion() {
+          var scrollTop =
+            document.documentElement.scrollTop || document.body.scrollTop;
+          var bodyHeight = parseInt(getComputedStyle(document.body).height, 10);
+          var scrollLimit = bodyHeight - window.innerHeight;
+          var scrollPCT = scrollTop / (scrollLimit / 100) / 100;
+          var newTop = bodyHeight * scrollPCT - img.offsetHeight;
+
+          // Asegúrate de que la nueva posición no sea menor que el límite superior ni mayor que el límite inferior
+          newTop = Math.max(limiteSuperior, newTop);
+          newTop = Math.min(limiteInferior, newTop);
+
+          // Actualiza la posición de la imagen
+          img.style.top = newTop + "px";
+
+          // Alternar entre las imágenes en función de la posición de scroll
+          if (scrollTop > scrollLimit / 2) {
+            img.src = imagen2; // Muestra la segunda imagen si el scroll supera la mitad del límite
+          } else {
+            img.src = imagen1; // Muestra la primera imagen si no
+          }
+        }
+
+        // Agrega el handler para el evento de scroll
+        window.addEventListener("scroll", alternarImagenYPosicion);
+      </script>
     </div>
   </body>
 </html>
