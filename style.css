@@ -48,3 +48,16 @@
     left:350px;
     font-size: x-large;
 }
+
+#desarrollo{
+    top:800px;
+    left:350px;
+    right:50px;
+    background-color: rgba(240, 255, 255, 0.674);
+    position: absolute;
+    font-size: x-large;
+    border-radius: 20px;
+    border: solid 3px rgb(0, 34, 255);
+
+  
+}
