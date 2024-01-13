@@ -1,611 +1,4016 @@
 {
-    "event":{
-        "50free":{
-            "male":{
-                "#1":{
-                    "time":20.91,
-                    "name":"Cesar Cielo",
-                    "year":2009,
-                    "wr":true
-                },
-                "#2":{
-                    "time":20.94,
-                    "name":"Frederick Bousquet",
-                    "year":2009,
-                    "wr":true
-                },
-                "#3":{
-                    "time":21.04,
-                    "name":"Caeleb Dressel",
-                    "year":2021,
-                    "wr":false
-                },
-                "#4":{
-                    "time":21.04,
-                    "name":"Caeleb Dressel",
-                    "year":2019,
-                    "wr":false
-                },
-                "#5":{
-                    "time":21.06,
-                    "name":"Cameron Mcevoy",
-                    "year":2023,
-                    "wr":false
-                },
-                "#6":{
-                    "time":21.07,
-                    "name":"Caeleb Dressel",
-                    "year":2021,
-                    "wr":false
-                },
-                "#7":{
-                    "time":21.08,
-                    "name":"Cesar Cielo",
-                    "year":2009,
-                    "wr":false
-                },
-                "#8":{
-                    "time":21.11,
-                    "name":"Benjamin Proud",
-                    "year":2018,
-                    "wr":false
-                },
-                "#9":{
-                    "time":21.15,
-                    "name":"Caeleb Dressel",
-                    "year":2017,
-                    "wr":false
-                },
-                "#10":{
-                    "time":21.16,
-                    "name":"Benjamin Proud",
-                    "year":2018,
-                    "wr":false
-                },
-                "#11":{
-                    "time":21.18,
-                    "name":"Caeleb Dressel",
-                    "year":2019,
-                    "wr":false
-                },
-                "#12":{
-                    "time":21.19,
-                    "name":"Florent Manaudou",
-                    "year":2015,
-                    "wr":false
-                },
-                "#13":{
-                    "time":21.19,
-                    "name":"Ashley Callus",
-                    "year":2009,
-                    "wr":false
-                },
-                "#14":{
-                    "time":21.20,
-                    "name":"George Bovell",
-                    "year":2009,
-                    "wr":false
-                },
-                "#15":{
-                    "time":21.21,
-                    "name":"Frederick Bousquet",
-                    "year":2009,
-                    "wr":false
-                },
-                "#16":{
-                    "time":21.21,
-                    "name":"Frederick Bousquet",
-                    "year":2009,
-                    "wr":false
-                },
-                "#17":{
-                    "time":21.25,
-                    "name":"Cameron Mcevoy",
-                    "year":2023,
-                    "wr":false
-                },
-                "#18":{
-                    "time":21.25,
-                    "name":"Amaury Leveaux",
-                    "year":2009,
-                    "wr":false
-                },
-                "#19":{
-                    "time":21.27,
-                    "name":"Cameron Mcevoy",
-                    "year":2023,
-                    "wr":false
-                },
-                "#20":{
-                    "time":21.27,
-                    "name":"Vladimir Morozov",
-                    "year":2019,
-                    "wr":false
-                },
-                "#21":{
-                    "time":21.27,
-                    "name":"Bruno Fratus",
-                    "year":2017,
-                    "wr":false
-                },
-                "#22":{
-                    "time":21.28,
-                    "name":"Eamon Sullivan",
-                    "year":2008,
-                    "wr":true
-                },
-                "#23":{
-                    "time":21.29,
-                    "name":"Caeleb Dressel",
-                    "year":2022,
-                    "wr":false
-                },
-                "#24":{
-                    "time":21.29,
-                    "name":"Caeleb Dressel",
-                    "year":2021,
-                    "wr":false
-                },
-                "#25":{
-                    "time":21.29,
-                    "name":"Caeleb Dressel",
-                    "year":2017,
-                    "wr":false
-                },
-                "#26":{
-                    "time":21.29,
-                    "name":"Duje Draganja",
-                    "year":2009,
-                    "wr":false
-                },
-                "#27":{
-                    "time":21.30,
-                    "name":"Benjamin Proud",
-                    "year":2018,
-                    "wr":false
-                },
-                "#28":{
-                    "time":21.30,
-                    "name":"Cesar Cielo",
-                    "year":2008,
-                    "wr":false
-                },
-                "#29":{
-                    "time":21.31,
-                    "name":"Bruno Fratus",
-                    "year":2019,
-                    "wr":false
-                },
-                "#30":{
-                    "time":21.32,
-                    "name":"Benjamin Proud",
-                    "year":2022,
-                    "wr":false
-                },
-                "#31":{
-                    "time":21.32,
-                    "name":"Caeleb Dressel",
-                    "year":2021,
-                    "wr":false
-                },
-                "#32":{
-                    "time":21.32,
-                    "name":"Benjamin Proud",
-                    "year":2017,
-                    "wr":false
-                },
-                "#33":{
-                    "time":21.32,
-                    "name":"Florent Manaudou",
-                    "year":2016,
-                    "wr":false
-                },
-                "#34":{
-                    "time":21.32,
-                    "name":"Florent Manaudou",
-                    "year":2014,
-                    "wr":false
-                },
-                "#35":{
-                    "time":21.32,
-                    "name":"Cesar Cielo",
-                    "year":2013,
-                    "wr":false
-                },
-                "#36":{
-                    "time":21.32,
-                    "name":"Amaury Leveaux",
-                    "year":2009,
-                    "wr":false
-                },
-                "#37":{
-                    "time":21.33,
-                    "name":"Cesar Cielo",
-                    "year":2009,
-                    "wr":false
-                },
-                "#38":{
-                    "time":21.34,
-                    "name":"Benjamin Proud",
-                    "year":2018,
-                    "wr":false
-                },
-                "#39":{
-                    "time":21.34,
-                    "name":"Florent Manaudou",
-                    "year":2012,
-                    "wr":false
-                },
-                "#40":{
-                    "time":21.34,
-                    "name":"Cesar Cielo",
-                    "year":2008,
-                    "wr":false
-                },
-                "#41":{
-                    "time":21.35,
-                    "name":"Cameron Mcevoy",
-                    "year":2023,
-                    "wr":false
-                },
-                "#42":{
-                    "time":21.35,
-                    "name":"Bruno Fratus",
-                    "year":2018,
-                    "wr":false
-                },
-                "#43":{
-                    "time":21.35,
-                    "name":"Bruno Fratus",
-                    "year":2018,
-                    "wr":false
-                },
-                "#44":{
-                    "time":21.35,
-                    "name":"Benjamin Proud",
-                    "year":2018,
-                    "wr":false
-                },
-                "#45":{
-                    "time":21.35,
-                    "name":"Cesar Cielo",
-                    "year":2009,
-                    "wr":false
-                },
-                "#46":{
-                    "time":21.36,
-                    "name":"Benjamin Proud",
-                    "year":2022,
-                    "wr":false
-                },
-                "#47":{
-                    "time":21.36,
-                    "name":"Frederick Bousquet",
-                    "year":2010,
-                    "wr":false
-                },
-                "#48":{
-                    "time":21.37,
-                    "name":"Andrea Vergani",
-                    "year":2018,
-                    "wr":false
-                },
-                "#49":{
-                    "time":21.37,
-                    "name":"Nathan Adrian",
-                    "year":2015,
-                    "wr":false
-                },
-                "#50":{
-                    "time":21.37,
-                    "name":"Cesar Cielo",
-                    "year":2009,
-                    "wr":false
-                }
-                
-            },
-            "female":{
-                "#1":{
-                    "time":23.61,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":true
-                },
-                "#2":{
-                    "time":23.62,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#3":{
-                    "time":23.67,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":true
-                },
-                "#4":{
-                    "time":23.69,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#5":{
-                    "time":23.73,
-                    "name":"Britta Steffen",
-                    "year":2009,
-                    "wr":true
-                },
-                "#6":{
-                    "time":23.74,
-                    "name":"Sarah Sjoestroem",
-                    "year":2018,
-                    "wr":false
-                },
-                "#7":{
-                    "time":23.75,
-                    "name":"Pernille Blume",
-                    "year":2018,
-                    "wr":false
-                },
-                "#8":{
-                    "time":23.78,
-                    "name":"Sarah Sjoestroem",
-                    "year":2019,
-                    "wr":false
-                },
-                "#9":{
-                    "time":23.78,
-                    "name":"Cate Campbell",
-                    "year":2018,
-                    "wr":false
-                },
-                "#10":{
-                    "time":23.79,
-                    "name":"Cate Campbell",
-                    "year":2018,
-                    "wr":false
-                },
-                "#11":{
-                    "time":23.81,
-                    "name":"Emma Mckeon",
-                    "year":2021,
-                    "wr":false
-                },
-                "#12":{
-                    "time":23.81,
-                    "name":"Cate Campbell",
-                    "year":2018,
-                    "wr":false
-                },
-                "#13":{
-                    "time":23.82,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#14":{
-                    "time":23.83,
-                    "name":"Sarah Sjoestroem",
-                    "year":2018,
-                    "wr":false
-                },
-                "#15":{
-                    "time":23.83,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#16":{
-                    "time":23.84,
-                    "name":"Cate Campbell",
-                    "year":2016,
-                    "wr":false
-                },
-                "#17":{
-                    "time":23.85,
-                    "name":"Pernille Blume",
-                    "year":2018,
-                    "wr":false
-                },
-                "#18":{
-                    "time":23.85,
-                    "name":"Ranomi Kromowidjojo",
-                    "year":2017,
-                    "wr":false
-                },
-                "#19":{
-                    "time":23.85,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#20":{
-                    "time":23.85,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#21":{
-                    "time":23.87,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#22":{
-                    "time":23.88,
-                    "name":"Cate Campbell",
-                    "year":2018,
-                    "wr":false
-                },
-                "#23":{
-                    "time":23.88,
-                    "name":"Therese Alshammar",
-                    "year":2009,
-                    "wr":false
-                },
-                "#24":{
-                    "time":23.90,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#25":{
-                    "time":23.91,
-                    "name":"Sarah Sjoestroem",
-                    "year":2022,
-                    "wr":false
-                },
-                "#26":{
-                    "time":23.91,
-                    "name":"Sarah Sjoestroem",
-                    "year":2019,
-                    "wr":false
-                },
-                "#27":{
-                    "time":23.92,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#28":{
-                    "time":23.92,
-                    "name":"Sarah Sjoestroem",
-                    "year":2018,
-                    "wr":false
-                },
-                "#29":{
-                    "time":23.92,
-                    "name":"Pernille Blume",
-                    "year":2018,
-                    "wr":false
-                },
-                "#30":{
-                    "time":23.93,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#31":{
-                    "time":23.93,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#32":{
-                    "time":23.93,
-                    "name":"Emma Mckeon",
-                    "year":2021,
-                    "wr":false
-                },
-                "#33":{
-                    "time":23.94,
-                    "name":"Cate Campbell",
-                    "year":2021,
-                    "wr":false
-                },
-                "#34":{
-                    "time":23.95,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#35":{
-                    "time":23.95,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#36":{
-                    "time":23.96,
-                    "name":"Sarah Sjoestroem",
-                    "year":2018,
-                    "wr":false
-                },
-                "#37":{
-                    "time":23.96,
-                    "name":"Sarah Sjoestroem",
-                    "year":2017,
-                    "wr":false
-                },
-                "#38":{
-                    "time":23.96,
-                    "name":"Cate Campbell",
-                    "year":2014,
-                    "wr":false
-                },
-                "#39":{
-                    "time":23.96,
-                    "name":"Fran Halsall",
-                    "year":2014,
-                    "wr":false
-                },
-                "#40":{
-                    "time":23.96,
-                    "name":"Magdalena Veldhius",
-                    "year":2009,
-                    "wr":true
-                },
-                "#41":{
-                    "time":23.97,
-                    "name":"Sarah Sjoestroem",
-                    "year":2023,
-                    "wr":false
-                },
-                "#42":{
-                    "time":23.97,
-                    "name":"Xiang Liu",
-                    "year":2021,
-                    "wr":false
-                },
-                "#43":{
-                    "time":23.97,
-                    "name":"Ranomi Kromowidjojo",
-                    "year":2021,
-                    "wr":false
-                },
-                "#44":{
-                    "time":21.97,
-                    "name":"Sarah Sjoestroem",
-                    "year":2019,
-                    "wr":false
-                },
-                "#45":{
-                    "time":23.97,
-                    "name":"Simone Manuel",
-                    "year":2017,
-                    "wr":false
-                },
-                "#46":{
-                    "time":23.97,
-                    "name":"Libby Lenton",
-                    "year":2008,
-                    "wr":true
-                },
-                "#47":{
-                    "time":23.98,
-                    "name":"Sarah Sjoestroem",
-                    "year":2022,
-                    "wr":false
-                },
-                "#48":{
-                    "time":23.98,
-                    "name":"Pernille Blume",
-                    "year":2018,
-                    "wr":false
-                },
-                "#49":{
-                    "time":23.98,
-                    "name":"Sarah Sjoestroem",
-                    "year":2014,
-                    "wr":false
-                },
-                "#50":{
-                    "time":23.99,
-                    "name":"Magdalena Veldhius",
-                    "year":2009,
-                    "wr":false
-                }
-            }
+  "event": {
+    "50free": {
+      "male": {
+        "1": {
+          "swim_time": 20.91,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "2": {
+          "swim_time": 20.94,
+          "swim_date": 2009,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "3": {
+          "swim_time": 21.04,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "4": {
+          "swim_time": 21.04,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "5": {
+          "swim_time": 21.06,
+          "swim_date": 2023,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "6": {
+          "swim_time": 21.07,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "7": {
+          "swim_time": 21.08,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "8": {
+          "swim_time": 21.11,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "9": {
+          "swim_time": 21.15,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "10": {
+          "swim_time": 21.16,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "11": {
+          "swim_time": 21.18,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "12": {
+          "swim_time": 21.19,
+          "swim_date": 2015,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "13": {
+          "swim_time": 21.19,
+          "swim_date": 2009,
+          "full_name_computed": "CALLUS, Ashley"
+        },
+        "14": {
+          "swim_time": 21.2,
+          "swim_date": 2009,
+          "full_name_computed": "BOVELL, George"
+        },
+        "15": {
+          "swim_time": 21.21,
+          "swim_date": 2009,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "16": {
+          "swim_time": 21.21,
+          "swim_date": 2009,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "17": {
+          "swim_time": 21.25,
+          "swim_date": 2023,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "18": {
+          "swim_time": 21.25,
+          "swim_date": 2009,
+          "full_name_computed": "LEVEAUX, Amaury"
+        },
+        "19": {
+          "swim_time": 21.27,
+          "swim_date": 2023,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "20": {
+          "swim_time": 21.27,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "21": {
+          "swim_time": 21.27,
+          "swim_date": 2017,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "22": {
+          "swim_time": 21.28,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "23": {
+          "swim_time": 21.29,
+          "swim_date": 2022,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "24": {
+          "swim_time": 21.29,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "25": {
+          "swim_time": 21.29,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "26": {
+          "swim_time": 21.29,
+          "swim_date": 2009,
+          "full_name_computed": "DRAGANJA, Duje"
+        },
+        "27": {
+          "swim_time": 21.3,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "28": {
+          "swim_time": 21.3,
+          "swim_date": 2008,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "29": {
+          "swim_time": 21.31,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "30": {
+          "swim_time": 21.32,
+          "swim_date": 2022,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "31": {
+          "swim_time": 21.32,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "32": {
+          "swim_time": 21.32,
+          "swim_date": 2017,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "33": {
+          "swim_time": 21.32,
+          "swim_date": 2016,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "34": {
+          "swim_time": 21.32,
+          "swim_date": 2014,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "35": {
+          "swim_time": 21.32,
+          "swim_date": 2013,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "36": {
+          "swim_time": 21.32,
+          "swim_date": 2009,
+          "full_name_computed": "LEVEAUX, Amaury"
+        },
+        "37": {
+          "swim_time": 21.33,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "38": {
+          "swim_time": 21.34,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "39": {
+          "swim_time": 21.34,
+          "swim_date": 2012,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "40": {
+          "swim_time": 21.34,
+          "swim_date": 2008,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "41": {
+          "swim_time": 21.35,
+          "swim_date": 2023,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "42": {
+          "swim_time": 21.35,
+          "swim_date": 2018,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "43": {
+          "swim_time": 21.35,
+          "swim_date": 2018,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "44": {
+          "swim_time": 21.35,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "45": {
+          "swim_time": 21.35,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "46": {
+          "swim_time": 21.36,
+          "swim_date": 2022,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "47": {
+          "swim_time": 21.36,
+          "swim_date": 2010,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "48": {
+          "swim_time": 21.37,
+          "swim_date": 2018,
+          "full_name_computed": "VERGANI, Andrea"
+        },
+        "49": {
+          "swim_time": 21.37,
+          "swim_date": 2015,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "50": {
+          "swim_time": 21.37,
+          "swim_date": 2015,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "51": {
+          "swim_time": 21.37,
+          "swim_date": 2013,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "52": {
+          "swim_time": 21.37,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "53": {
+          "swim_time": 21.38,
+          "swim_date": 2012,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "54": {
+          "swim_time": 21.38,
+          "swim_date": 2009,
+          "full_name_computed": "DRAGANJA, Duje"
+        },
+        "55": {
+          "swim_time": 21.39,
+          "swim_date": 2014,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "56": {
+          "swim_time": 21.4,
+          "swim_date": 2022,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "57": {
+          "swim_time": 21.4,
+          "swim_date": 2016,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "58": {
+          "swim_time": 21.4,
+          "swim_date": 2009,
+          "full_name_computed": "JONES, Cullen"
+        },
+        "59": {
+          "swim_time": 21.41,
+          "swim_date": 2023,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "60": {
+          "swim_time": 21.41,
+          "swim_date": 2022,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "61": {
+          "swim_time": 21.41,
+          "swim_date": 2021,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "62": {
+          "swim_time": 21.41,
+          "swim_date": 2016,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "63": {
+          "swim_time": 21.41,
+          "swim_date": 2015,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "64": {
+          "swim_time": 21.41,
+          "swim_date": 2014,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "65": {
+          "swim_time": 21.41,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "66": {
+          "swim_time": 21.42,
+          "swim_date": 2022,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "67": {
+          "swim_time": 21.42,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "68": {
+          "swim_time": 21.42,
+          "swim_date": 2021,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "69": {
+          "swim_time": 21.42,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "70": {
+          "swim_time": 21.42,
+          "swim_date": 2016,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "71": {
+          "swim_time": 21.42,
+          "swim_date": 2013,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "72": {
+          "swim_time": 21.42,
+          "swim_date": 2009,
+          "full_name_computed": "TAKACS, Krisztian"
+        },
+        "73": {
+          "swim_time": 21.43,
+          "swim_date": 2017,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "74": {
+          "swim_time": 21.44,
+          "swim_date": 2018,
+          "full_name_computed": "GKOLOMEEV, Kristian"
+        },
+        "75": {
+          "swim_time": 21.44,
+          "swim_date": 2018,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "76": {
+          "swim_time": 21.44,
+          "swim_date": 2017,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "77": {
+          "swim_time": 21.44,
+          "swim_date": 2017,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "78": {
+          "swim_time": 21.44,
+          "swim_date": 2016,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "79": {
+          "swim_time": 21.44,
+          "swim_date": 2014,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "80": {
+          "swim_time": 21.45,
+          "swim_date": 2022,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "81": {
+          "swim_time": 21.45,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "82": {
+          "swim_time": 21.45,
+          "swim_date": 2019,
+          "full_name_computed": "GKOLOMEEV, Kristian"
+        },
+        "83": {
+          "swim_time": 21.45,
+          "swim_date": 2018,
+          "full_name_computed": "JURASZEK, Pawel"
+        },
+        "84": {
+          "swim_time": 21.45,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "85": {
+          "swim_time": 21.45,
+          "swim_date": 2017,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "86": {
+          "swim_time": 21.45,
+          "swim_date": 2014,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "87": {
+          "swim_time": 21.45,
+          "swim_date": 2014,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "88": {
+          "swim_time": 21.45,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "89": {
+          "swim_time": 21.45,
+          "swim_date": 2008,
+          "full_name_computed": "LEVEAUX, Amaury"
+        },
+        "90": {
+          "swim_time": 21.46,
+          "swim_date": 2018,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "91": {
+          "swim_time": 21.46,
+          "swim_date": 2017,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "92": {
+          "swim_time": 21.46,
+          "swim_date": 2016,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "93": {
+          "swim_time": 21.46,
+          "swim_date": 2016,
+          "full_name_computed": "GOVOROV, Andrii"
+        },
+        "94": {
+          "swim_time": 21.46,
+          "swim_date": 2009,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "95": {
+          "swim_time": 21.46,
+          "swim_date": 2008,
+          "full_name_computed": "LEVEAUX, Amaury"
+        },
+        "96": {
+          "swim_time": 21.47,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "97": {
+          "swim_time": 21.47,
+          "swim_date": 2018,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "98": {
+          "swim_time": 21.47,
+          "swim_date": 2017,
+          "full_name_computed": "JURASZEK, Pawel"
+        },
+        "99": {
+          "swim_time": 21.47,
+          "swim_date": 2016,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "100": {
+          "swim_time": 21.47,
+          "swim_date": 2013,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "101": {
+          "swim_time": 21.47,
+          "swim_date": 2013,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "102": {
+          "swim_time": 21.47,
+          "swim_date": 2009,
+          "full_name_computed": "JONES, Cullen"
+        },
+        "103": {
+          "swim_time": 21.47,
+          "swim_date": 2008,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "104": {
+          "swim_time": 21.48,
+          "swim_date": 2021,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "105": {
+          "swim_time": 21.48,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "106": {
+          "swim_time": 21.49,
+          "swim_date": 2022,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "107": {
+          "swim_time": 21.49,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "108": {
+          "swim_time": 21.49,
+          "swim_date": 2018,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "109": {
+          "swim_time": 21.49,
+          "swim_date": 2018,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "110": {
+          "swim_time": 21.49,
+          "swim_date": 2016,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "111": {
+          "swim_time": 21.49,
+          "swim_date": 2016,
+          "full_name_computed": "GOVOROV, Andrii"
+        },
+        "112": {
+          "swim_time": 21.49,
+          "swim_date": 2010,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "113": {
+          "swim_time": 21.49,
+          "swim_date": 2009,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "114": {
+          "swim_time": 21.49,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "115": {
+          "swim_time": 21.5,
+          "swim_date": 2023,
+          "full_name_computed": "HELD, Ryan"
+        },
+        "116": {
+          "swim_time": 21.5,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "117": {
+          "swim_time": 21.5,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "118": {
+          "swim_time": 21.5,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "119": {
+          "swim_time": 21.5,
+          "swim_date": 2015,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "120": {
+          "swim_time": 21.5,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "121": {
+          "swim_time": 21.51,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "122": {
+          "swim_time": 21.51,
+          "swim_date": 2020,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "123": {
+          "swim_time": 21.51,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "124": {
+          "swim_time": 21.51,
+          "swim_date": 2017,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "125": {
+          "swim_time": 21.51,
+          "swim_date": 2016,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "126": {
+          "swim_time": 21.51,
+          "swim_date": 2013,
+          "full_name_computed": "BOVELL, George"
+        },
+        "127": {
+          "swim_time": 21.51,
+          "swim_date": 2009,
+          "full_name_computed": "BOVELL, George"
+        },
+        "128": {
+          "swim_time": 21.52,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "129": {
+          "swim_time": 21.52,
+          "swim_date": 2018,
+          "full_name_computed": "GKOLOMEEV, Kristian"
+        },
+        "130": {
+          "swim_time": 21.52,
+          "swim_date": 2018,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "131": {
+          "swim_time": 21.52,
+          "swim_date": 2016,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "132": {
+          "swim_time": 21.52,
+          "swim_date": 2015,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "133": {
+          "swim_time": 21.52,
+          "swim_date": 2013,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "134": {
+          "swim_time": 21.52,
+          "swim_date": 2011,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "135": {
+          "swim_time": 21.53,
+          "swim_date": 2021,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "136": {
+          "swim_time": 21.53,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "137": {
+          "swim_time": 21.53,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "138": {
+          "swim_time": 21.53,
+          "swim_date": 2019,
+          "full_name_computed": "VERGANI, Andrea"
+        },
+        "139": {
+          "swim_time": 21.53,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "140": {
+          "swim_time": 21.53,
+          "swim_date": 2015,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "141": {
+          "swim_time": 21.53,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "142": {
+          "swim_time": 21.54,
+          "swim_date": 2019,
+          "full_name_computed": "GKOLOMEEV, Kristian"
+        },
+        "143": {
+          "swim_time": 21.54,
+          "swim_date": 2016,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "144": {
+          "swim_time": 21.54,
+          "swim_date": 2012,
+          "full_name_computed": "JONES, Cullen"
+        },
+        "145": {
+          "swim_time": 21.54,
+          "swim_date": 2012,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "146": {
+          "swim_time": 21.54,
+          "swim_date": 2012,
+          "full_name_computed": "JONES, Cullen"
+        },
+        "147": {
+          "swim_time": 21.54,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "148": {
+          "swim_time": 21.55,
+          "swim_date": 2021,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "149": {
+          "swim_time": 21.55,
+          "swim_date": 2021,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "150": {
+          "swim_time": 21.55,
+          "swim_date": 2020,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "151": {
+          "swim_time": 21.55,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "152": {
+          "swim_time": 21.55,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "153": {
+          "swim_time": 21.55,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "154": {
+          "swim_time": 21.55,
+          "swim_date": 2017,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "155": {
+          "swim_time": 21.55,
+          "swim_date": 2016,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "156": {
+          "swim_time": 21.55,
+          "swim_date": 2015,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "157": {
+          "swim_time": 21.55,
+          "swim_date": 2014,
+          "full_name_computed": "ERVIN, Anthony"
+        },
+        "158": {
+          "swim_time": 21.55,
+          "swim_date": 2014,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "159": {
+          "swim_time": 21.55,
+          "swim_date": 2013,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "160": {
+          "swim_time": 21.55,
+          "swim_date": 2010,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "161": {
+          "swim_time": 21.56,
+          "swim_date": 2023,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "162": {
+          "swim_time": 21.56,
+          "swim_date": 2020,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "163": {
+          "swim_time": 21.56,
+          "swim_date": 2019,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "164": {
+          "swim_time": 21.56,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "165": {
+          "swim_time": 21.56,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "166": {
+          "swim_time": 21.56,
+          "swim_date": 2015,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "167": {
+          "swim_time": 21.56,
+          "swim_date": 2015,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "168": {
+          "swim_time": 21.56,
+          "swim_date": 2015,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "169": {
+          "swim_time": 21.56,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "170": {
+          "swim_time": 21.56,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "171": {
+          "swim_time": 21.57,
+          "swim_date": 2023,
+          "full_name_computed": "ALEXY, Jack"
+        },
+        "172": {
+          "swim_time": 21.57,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "173": {
+          "swim_time": 21.57,
+          "swim_date": 2021,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "174": {
+          "swim_time": 21.57,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "175": {
+          "swim_time": 21.57,
+          "swim_date": 2016,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "176": {
+          "swim_time": 21.57,
+          "swim_date": 2016,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "177": {
+          "swim_time": 21.57,
+          "swim_date": 2015,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "178": {
+          "swim_time": 21.57,
+          "swim_date": 2014,
+          "full_name_computed": "MANAUDOU, Florent"
+        },
+        "179": {
+          "swim_time": 21.57,
+          "swim_date": 2013,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "180": {
+          "swim_time": 21.57,
+          "swim_date": 2010,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "181": {
+          "swim_time": 21.58,
+          "swim_date": 2023,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "182": {
+          "swim_time": 21.58,
+          "swim_date": 2022,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "183": {
+          "swim_time": 21.58,
+          "swim_date": 2021,
+          "full_name_computed": "DE BOER, Thom"
+        },
+        "184": {
+          "swim_time": 21.58,
+          "swim_date": 2019,
+          "full_name_computed": "PROUD, Benjamin"
+        },
+        "185": {
+          "swim_time": 21.58,
+          "swim_date": 2017,
+          "full_name_computed": "LIUKKONEN, Ari-Pekka"
+        },
+        "186": {
+          "swim_time": 21.58,
+          "swim_date": 2017,
+          "full_name_computed": "LIUKKONEN, Ari-Pekka"
+        },
+        "187": {
+          "swim_time": 21.58,
+          "swim_date": 2011,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "188": {
+          "swim_time": 21.59,
+          "swim_date": 2022,
+          "full_name_computed": "DE BOER, Thom"
+        },
+        "189": {
+          "swim_time": 21.59,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "190": {
+          "swim_time": 21.59,
+          "swim_date": 2021,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "191": {
+          "swim_time": 21.59,
+          "swim_date": 2019,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "192": {
+          "swim_time": 21.59,
+          "swim_date": 2012,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "193": {
+          "swim_time": 21.59,
+          "swim_date": 2012,
+          "full_name_computed": "JONES, Cullen"
+        },
+        "194": {
+          "swim_time": 21.6,
+          "swim_date": 2023,
+          "full_name_computed": "ALEXY, Jack"
+        },
+        "195": {
+          "swim_time": 21.6,
+          "swim_date": 2022,
+          "full_name_computed": "DEPLANO, Leonardo"
+        },
+        "196": {
+          "swim_time": 21.6,
+          "swim_date": 2022,
+          "full_name_computed": "SZABO, Szebasztian"
+        },
+        "197": {
+          "swim_time": 21.6,
+          "swim_date": 2021,
+          "full_name_computed": "ANDREW, Michael"
+        },
+        "198": {
+          "swim_time": 21.6,
+          "swim_date": 2021,
+          "full_name_computed": "FRATUS, Bruno"
+        },
+        "199": {
+          "swim_time": 21.6,
+          "swim_date": 2021,
+          "full_name_computed": "GKOLOMEEV, Kristian"
+        },
+        "200": {
+          "swim_time": 21.6,
+          "swim_date": 2021,
+          "full_name_computed": "GKOLOMEEV, Kristian"
         }
+      },
+      "female": {
+        "1": {
+          "swim_time": 23.61,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "2": {
+          "swim_time": 23.62,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "3": {
+          "swim_time": 23.67,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "4": {
+          "swim_time": 23.69,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "5": {
+          "swim_time": 23.73,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "6": {
+          "swim_time": 23.74,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "7": {
+          "swim_time": 23.75,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "8": {
+          "swim_time": 23.78,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "9": {
+          "swim_time": 23.78,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "10": {
+          "swim_time": 23.79,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "11": {
+          "swim_time": 23.81,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "12": {
+          "swim_time": 23.81,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "13": {
+          "swim_time": 23.82,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "14": {
+          "swim_time": 23.83,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "15": {
+          "swim_time": 23.83,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "16": {
+          "swim_time": 23.84,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "17": {
+          "swim_time": 23.85,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "18": {
+          "swim_time": 23.85,
+          "swim_date": 2017,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "19": {
+          "swim_time": 23.85,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "20": {
+          "swim_time": 23.85,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "21": {
+          "swim_time": 23.87,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "22": {
+          "swim_time": 23.88,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "23": {
+          "swim_time": 23.88,
+          "swim_date": 2009,
+          "full_name_computed": "ALSHAMMAR, Therese"
+        },
+        "24": {
+          "swim_time": 23.9,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "25": {
+          "swim_time": 23.91,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "26": {
+          "swim_time": 23.91,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "27": {
+          "swim_time": 23.92,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "28": {
+          "swim_time": 23.92,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "29": {
+          "swim_time": 23.92,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "30": {
+          "swim_time": 23.93,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "31": {
+          "swim_time": 23.93,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "32": {
+          "swim_time": 23.93,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "33": {
+          "swim_time": 23.94,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "34": {
+          "swim_time": 23.95,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "35": {
+          "swim_time": 23.95,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "36": {
+          "swim_time": 23.96,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "37": {
+          "swim_time": 23.96,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "38": {
+          "swim_time": 23.96,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "39": {
+          "swim_time": 23.96,
+          "swim_date": 2014,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "40": {
+          "swim_time": 23.96,
+          "swim_date": 2009,
+          "full_name_computed": "VELDHUIS, Magdalena"
+        },
+        "41": {
+          "swim_time": 23.97,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "42": {
+          "swim_time": 23.97,
+          "swim_date": 2021,
+          "full_name_computed": "LIU, Xiang"
+        },
+        "43": {
+          "swim_time": 23.97,
+          "swim_date": 2021,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "44": {
+          "swim_time": 23.97,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "45": {
+          "swim_time": 23.97,
+          "swim_date": 2017,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "46": {
+          "swim_time": 23.97,
+          "swim_date": 2008,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "47": {
+          "swim_time": 23.98,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "48": {
+          "swim_time": 23.98,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "49": {
+          "swim_time": 23.98,
+          "swim_date": 2014,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "50": {
+          "swim_time": 23.99,
+          "swim_date": 2022,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "51": {
+          "swim_time": 23.99,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "52": {
+          "swim_time": 23.99,
+          "swim_date": 2009,
+          "full_name_computed": "VELDHUIS, Magdalena"
+        },
+        "53": {
+          "swim_time": 23.99,
+          "swim_date": 2009,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "54": {
+          "swim_time": 24,
+          "swim_date": 2023,
+          "full_name_computed": "WEITZEIL, Abbey"
+        },
+        "55": {
+          "swim_time": 24,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "56": {
+          "swim_time": 24,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "57": {
+          "swim_time": 24,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "58": {
+          "swim_time": 24,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "59": {
+          "swim_time": 24.01,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "60": {
+          "swim_time": 24.01,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "61": {
+          "swim_time": 24.01,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "62": {
+          "swim_time": 24.02,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "63": {
+          "swim_time": 24.02,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "64": {
+          "swim_time": 24.02,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "65": {
+          "swim_time": 24.02,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "66": {
+          "swim_time": 24.03,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "67": {
+          "swim_time": 24.03,
+          "swim_date": 2020,
+          "full_name_computed": "LIU, Xiang"
+        },
+        "68": {
+          "swim_time": 24.03,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "69": {
+          "swim_time": 24.04,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "70": {
+          "swim_time": 24.04,
+          "swim_date": 2020,
+          "full_name_computed": "LIU, Xiang"
+        },
+        "71": {
+          "swim_time": 24.04,
+          "swim_date": 2017,
+          "full_name_computed": "LIU, Xiang"
+        },
+        "72": {
+          "swim_time": 24.04,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "73": {
+          "swim_time": 24.05,
+          "swim_date": 2019,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "74": {
+          "swim_time": 24.05,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "75": {
+          "swim_time": 24.05,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "76": {
+          "swim_time": 24.05,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "77": {
+          "swim_time": 24.05,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "78": {
+          "swim_time": 24.05,
+          "swim_date": 2013,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "79": {
+          "swim_time": 24.05,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "80": {
+          "swim_time": 24.06,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "81": {
+          "swim_time": 24.06,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "82": {
+          "swim_time": 24.06,
+          "swim_date": 2008,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "83": {
+          "swim_time": 24.07,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "84": {
+          "swim_time": 24.07,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "85": {
+          "swim_time": 24.07,
+          "swim_date": 2016,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "86": {
+          "swim_time": 24.07,
+          "swim_date": 2016,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "87": {
+          "swim_time": 24.07,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "88": {
+          "swim_time": 24.07,
+          "swim_date": 2008,
+          "full_name_computed": "TORRES, Dara"
+        },
+        "89": {
+          "swim_time": 24.08,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "90": {
+          "swim_time": 24.08,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "91": {
+          "swim_time": 24.08,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "92": {
+          "swim_time": 24.08,
+          "swim_date": 2019,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "93": {
+          "swim_time": 24.08,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "94": {
+          "swim_time": 24.08,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "95": {
+          "swim_time": 24.08,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "96": {
+          "swim_time": 24.08,
+          "swim_date": 2009,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "97": {
+          "swim_time": 24.09,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "98": {
+          "swim_time": 24.09,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "99": {
+          "swim_time": 24.09,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "100": {
+          "swim_time": 24.09,
+          "swim_date": 2019,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "101": {
+          "swim_time": 24.09,
+          "swim_date": 2016,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "102": {
+          "swim_time": 24.09,
+          "swim_date": 2008,
+          "full_name_computed": "VELDHUIS, Magdalena"
+        },
+        "103": {
+          "swim_time": 24.1,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "104": {
+          "swim_time": 24.1,
+          "swim_date": 2023,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "105": {
+          "swim_time": 24.1,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "106": {
+          "swim_time": 24.1,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "107": {
+          "swim_time": 24.1,
+          "swim_date": 2018,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "108": {
+          "swim_time": 24.1,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "109": {
+          "swim_time": 24.11,
+          "swim_date": 2023,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "110": {
+          "swim_time": 24.11,
+          "swim_date": 2022,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "111": {
+          "swim_time": 24.11,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "112": {
+          "swim_time": 24.11,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "113": {
+          "swim_time": 24.11,
+          "swim_date": 2021,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "114": {
+          "swim_time": 24.11,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "115": {
+          "swim_time": 24.11,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "116": {
+          "swim_time": 24.11,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "117": {
+          "swim_time": 24.11,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "118": {
+          "swim_time": 24.11,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "119": {
+          "swim_time": 24.11,
+          "swim_date": 2016,
+          "full_name_computed": "HERASIMENIA, Aliaksandra"
+        },
+        "120": {
+          "swim_time": 24.11,
+          "swim_date": 2009,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "121": {
+          "swim_time": 24.12,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "122": {
+          "swim_time": 24.12,
+          "swim_date": 2019,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "123": {
+          "swim_time": 24.12,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "124": {
+          "swim_time": 24.12,
+          "swim_date": 2017,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "125": {
+          "swim_time": 24.12,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "126": {
+          "swim_time": 24.12,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "127": {
+          "swim_time": 24.13,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "128": {
+          "swim_time": 24.13,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "129": {
+          "swim_time": 24.13,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "130": {
+          "swim_time": 24.13,
+          "swim_date": 2016,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "131": {
+          "swim_time": 24.13,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "132": {
+          "swim_time": 24.13,
+          "swim_date": 2012,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "133": {
+          "swim_time": 24.13,
+          "swim_date": 2000,
+          "full_name_computed": "DE BRUIJN, Inge"
+        },
+        "134": {
+          "swim_time": 24.14,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "135": {
+          "swim_time": 24.14,
+          "swim_date": 2022,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "136": {
+          "swim_time": 24.14,
+          "swim_date": 2021,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "137": {
+          "swim_time": 24.14,
+          "swim_date": 2020,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "138": {
+          "swim_time": 24.14,
+          "swim_date": 2019,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "139": {
+          "swim_time": 24.14,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "140": {
+          "swim_time": 24.14,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "141": {
+          "swim_time": 24.14,
+          "swim_date": 2014,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "142": {
+          "swim_time": 24.14,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "143": {
+          "swim_time": 24.14,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "144": {
+          "swim_time": 24.14,
+          "swim_date": 2011,
+          "full_name_computed": "ALSHAMMAR, Therese"
+        },
+        "145": {
+          "swim_time": 24.15,
+          "swim_date": 2023,
+          "full_name_computed": "ZHANG, Yufei"
+        },
+        "146": {
+          "swim_time": 24.15,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "147": {
+          "swim_time": 24.15,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "148": {
+          "swim_time": 24.15,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "149": {
+          "swim_time": 24.15,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "150": {
+          "swim_time": 24.15,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "151": {
+          "swim_time": 24.15,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "152": {
+          "swim_time": 24.15,
+          "swim_date": 2014,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "153": {
+          "swim_time": 24.16,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "154": {
+          "swim_time": 24.17,
+          "swim_date": 2022,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "155": {
+          "swim_time": 24.17,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "156": {
+          "swim_time": 24.17,
+          "swim_date": 2021,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "157": {
+          "swim_time": 24.17,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "158": {
+          "swim_time": 24.17,
+          "swim_date": 2021,
+          "full_name_computed": "CURZAN, Claire"
+        },
+        "159": {
+          "swim_time": 24.17,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "160": {
+          "swim_time": 24.17,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "161": {
+          "swim_time": 24.17,
+          "swim_date": 2016,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "162": {
+          "swim_time": 24.17,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "163": {
+          "swim_time": 24.17,
+          "swim_date": 2008,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "164": {
+          "swim_time": 24.18,
+          "swim_date": 2023,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "165": {
+          "swim_time": 24.18,
+          "swim_date": 2022,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "166": {
+          "swim_time": 24.18,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "167": {
+          "swim_time": 24.18,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "168": {
+          "swim_time": 24.18,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "169": {
+          "swim_time": 24.19,
+          "swim_date": 2021,
+          "full_name_computed": "WEITZEIL, Abbey"
+        },
+        "170": {
+          "swim_time": 24.19,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "171": {
+          "swim_time": 24.19,
+          "swim_date": 2016,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "172": {
+          "swim_time": 24.19,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "173": {
+          "swim_time": 24.19,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "174": {
+          "swim_time": 24.19,
+          "swim_date": 2009,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "175": {
+          "swim_time": 24.2,
+          "swim_date": 2023,
+          "full_name_computed": "ZHANG, Yufei"
+        },
+        "176": {
+          "swim_time": 24.2,
+          "swim_date": 2022,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "177": {
+          "swim_time": 24.2,
+          "swim_date": 2021,
+          "full_name_computed": "KAMENEVA, Mariia"
+        },
+        "178": {
+          "swim_time": 24.2,
+          "swim_date": 2020,
+          "full_name_computed": "LIU, Xiang"
+        },
+        "179": {
+          "swim_time": 24.2,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "180": {
+          "swim_time": 24.2,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "181": {
+          "swim_time": 24.2,
+          "swim_date": 2017,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "182": {
+          "swim_time": 24.2,
+          "swim_date": 2016,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "183": {
+          "swim_time": 24.2,
+          "swim_date": 2015,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "184": {
+          "swim_time": 24.2,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "185": {
+          "swim_time": 24.2,
+          "swim_date": 2013,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "186": {
+          "swim_time": 24.2,
+          "swim_date": 2009,
+          "full_name_computed": "VELDHUIS, Magdalena"
+        },
+        "187": {
+          "swim_time": 24.2,
+          "swim_date": 2008,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "188": {
+          "swim_time": 24.21,
+          "swim_date": 2023,
+          "full_name_computed": "WASICK, Katarzyna"
+        },
+        "189": {
+          "swim_time": 24.21,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "190": {
+          "swim_time": 24.21,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "191": {
+          "swim_time": 24.21,
+          "swim_date": 2019,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "192": {
+          "swim_time": 24.21,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "193": {
+          "swim_time": 24.21,
+          "swim_date": 2018,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "194": {
+          "swim_time": 24.21,
+          "swim_date": 2018,
+          "full_name_computed": "KAMENEVA, Mariia"
+        },
+        "195": {
+          "swim_time": 24.21,
+          "swim_date": 2018,
+          "full_name_computed": "IKEE, Rikako"
+        },
+        "196": {
+          "swim_time": 24.21,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "197": {
+          "swim_time": 24.21,
+          "swim_date": 2016,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "198": {
+          "swim_time": 24.21,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "199": {
+          "swim_time": 24.21,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "200": {
+          "swim_time": 24.22,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        }
+      }
+    },
+    "100free": {
+      "male": {
+        "1": {
+          "swim_time": 46.86,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "2": {
+          "swim_time": 46.91,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "3": {
+          "swim_time": 46.94,
+          "swim_date": 2009,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "4": {
+          "swim_time": 46.96,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "5": {
+          "swim_time": 46.97,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "6": {
+          "swim_time": 46.98,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "7": {
+          "swim_time": 47.02,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "8": {
+          "swim_time": 47.04,
+          "swim_date": 2016,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "9": {
+          "swim_time": 47.05,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "10": {
+          "swim_time": 47.06,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "11": {
+          "swim_time": 47.07,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "12": {
+          "swim_time": 47.08,
+          "swim_date": 2021,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "13": {
+          "swim_time": 47.08,
+          "swim_date": 2019,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "14": {
+          "swim_time": 47.09,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "15": {
+          "swim_time": 47.1,
+          "swim_date": 2012,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "16": {
+          "swim_time": 47.11,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "17": {
+          "swim_time": 47.12,
+          "swim_date": 2009,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "18": {
+          "swim_time": 47.13,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "19": {
+          "swim_time": 47.13,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "20": {
+          "swim_time": 47.15,
+          "swim_date": 2023,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "21": {
+          "swim_time": 47.17,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "22": {
+          "swim_time": 47.2,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "23": {
+          "swim_time": 47.2,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "24": {
+          "swim_time": 47.21,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "25": {
+          "swim_time": 47.22,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "26": {
+          "swim_time": 47.23,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "27": {
+          "swim_time": 47.24,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "28": {
+          "swim_time": 47.25,
+          "swim_date": 2009,
+          "full_name_computed": "BOUSQUET, Frederick"
+        },
+        "29": {
+          "swim_time": 47.26,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "30": {
+          "swim_time": 47.26,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "31": {
+          "swim_time": 47.27,
+          "swim_date": 2009,
+          "full_name_computed": "HAYDEN, Brent"
+        },
+        "32": {
+          "swim_time": 47.27,
+          "swim_date": 2009,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "33": {
+          "swim_time": 47.3,
+          "swim_date": 2021,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "34": {
+          "swim_time": 47.31,
+          "swim_date": 2023,
+          "full_name_computed": "ALEXY, Jack"
+        },
+        "35": {
+          "swim_time": 47.31,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "36": {
+          "swim_time": 47.32,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "37": {
+          "swim_time": 47.32,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "38": {
+          "swim_time": 47.33,
+          "swim_date": 2009,
+          "full_name_computed": "WALTERS, David"
+        },
+        "39": {
+          "swim_time": 47.35,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "40": {
+          "swim_time": 47.35,
+          "swim_date": 2019,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "41": {
+          "swim_time": 47.36,
+          "swim_date": 2022,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "42": {
+          "swim_time": 47.37,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "43": {
+          "swim_time": 47.37,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "44": {
+          "swim_time": 47.37,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "45": {
+          "swim_time": 47.39,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "46": {
+          "swim_time": 47.39,
+          "swim_date": 2019,
+          "full_name_computed": "HELD, Ryan"
+        },
+        "47": {
+          "swim_time": 47.39,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "48": {
+          "swim_time": 47.42,
+          "swim_date": 2023,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "49": {
+          "swim_time": 47.43,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "50": {
+          "swim_time": 47.43,
+          "swim_date": 2019,
+          "full_name_computed": "HELD, Ryan"
+        },
+        "51": {
+          "swim_time": 47.43,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "52": {
+          "swim_time": 47.44,
+          "swim_date": 2023,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "53": {
+          "swim_time": 47.44,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "54": {
+          "swim_time": 47.45,
+          "swim_date": 2023,
+          "full_name_computed": "RICHARDS, Matthew"
+        },
+        "55": {
+          "swim_time": 47.45,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "56": {
+          "swim_time": 47.46,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "57": {
+          "swim_time": 47.47,
+          "swim_date": 2023,
+          "full_name_computed": "RICHARDS, Matthew"
+        },
+        "58": {
+          "swim_time": 47.47,
+          "swim_date": 2022,
+          "full_name_computed": "MILAK, Kristof"
+        },
+        "59": {
+          "swim_time": 47.48,
+          "swim_date": 2019,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "60": {
+          "swim_time": 47.48,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "61": {
+          "swim_time": 47.49,
+          "swim_date": 2011,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "62": {
+          "swim_time": 47.5,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "63": {
+          "swim_time": 47.51,
+          "swim_date": 2022,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "64": {
+          "swim_time": 47.51,
+          "swim_date": 2008,
+          "full_name_computed": "PHELPS, Michael"
+        },
+        "65": {
+          "swim_time": 47.52,
+          "swim_date": 2023,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "66": {
+          "swim_time": 47.52,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "67": {
+          "swim_time": 47.52,
+          "swim_date": 2021,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "68": {
+          "swim_time": 47.52,
+          "swim_date": 2012,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "69": {
+          "swim_time": 47.52,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "70": {
+          "swim_time": 47.53,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "71": {
+          "swim_time": 47.53,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "72": {
+          "swim_time": 47.53,
+          "swim_date": 2013,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "73": {
+          "swim_time": 47.53,
+          "swim_date": 2012,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "74": {
+          "swim_time": 47.53,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "75": {
+          "swim_time": 47.54,
+          "swim_date": 2023,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "76": {
+          "swim_time": 47.54,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "77": {
+          "swim_time": 47.54,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "78": {
+          "swim_time": 47.55,
+          "swim_date": 2022,
+          "full_name_computed": "LIENDO, Josh"
+        },
+        "79": {
+          "swim_time": 47.56,
+          "swim_date": 2021,
+          "full_name_computed": "HWANG, Sunwoo"
+        },
+        "80": {
+          "swim_time": 47.56,
+          "swim_date": 2021,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "81": {
+          "swim_time": 47.56,
+          "swim_date": 2016,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "82": {
+          "swim_time": 47.56,
+          "swim_date": 2008,
+          "full_name_computed": "HAYDEN, Brent"
+        },
+        "83": {
+          "swim_time": 47.57,
+          "swim_date": 2020,
+          "full_name_computed": "MINAKOV, Andrei"
+        },
+        "84": {
+          "swim_time": 47.58,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "85": {
+          "swim_time": 47.58,
+          "swim_date": 2019,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "86": {
+          "swim_time": 47.58,
+          "swim_date": 2016,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "87": {
+          "swim_time": 47.59,
+          "swim_date": 2023,
+          "full_name_computed": "RICHARDS, Matthew"
+        },
+        "88": {
+          "swim_time": 47.59,
+          "swim_date": 2021,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "89": {
+          "swim_time": 47.59,
+          "swim_date": 2014,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "90": {
+          "swim_time": 47.59,
+          "swim_date": 2009,
+          "full_name_computed": "WALTERS, David"
+        },
+        "91": {
+          "swim_time": 47.6,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "92": {
+          "swim_time": 47.6,
+          "swim_date": 2022,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "93": {
+          "swim_time": 47.6,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "94": {
+          "swim_time": 47.6,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "95": {
+          "swim_time": 47.6,
+          "swim_date": 2009,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "96": {
+          "swim_time": 47.6,
+          "swim_date": 2008,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "97": {
+          "swim_time": 47.61,
+          "swim_date": 2023,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "98": {
+          "swim_time": 47.61,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "99": {
+          "swim_time": 47.61,
+          "swim_date": 2023,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "100": {
+          "swim_time": 47.61,
+          "swim_date": 2019,
+          "full_name_computed": "ROONEY, Maxime"
+        },
+        "101": {
+          "swim_time": 47.62,
+          "swim_date": 2023,
+          "full_name_computed": "NEMETH, Nandor"
+        },
+        "102": {
+          "swim_time": 47.62,
+          "swim_date": 2023,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "103": {
+          "swim_time": 47.62,
+          "swim_date": 2013,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "104": {
+          "swim_time": 47.63,
+          "swim_date": 2023,
+          "full_name_computed": "HELD, Ryan"
+        },
+        "105": {
+          "swim_time": 47.63,
+          "swim_date": 2022,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "106": {
+          "swim_time": 47.63,
+          "swim_date": 2022,
+          "full_name_computed": "BURRAS, Lewis Edward"
+        },
+        "107": {
+          "swim_time": 47.63,
+          "swim_date": 2019,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "108": {
+          "swim_time": 47.63,
+          "swim_date": 2012,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "109": {
+          "swim_time": 47.63,
+          "swim_date": 2012,
+          "full_name_computed": "ROBERTS, James"
+        },
+        "110": {
+          "swim_time": 47.63,
+          "swim_date": 2011,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "111": {
+          "swim_time": 47.64,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "112": {
+          "swim_time": 47.65,
+          "swim_date": 2022,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "113": {
+          "swim_time": 47.65,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "114": {
+          "swim_time": 47.65,
+          "swim_date": 2017,
+          "full_name_computed": "METELLA, Mehdy"
+        },
+        "115": {
+          "swim_time": 47.65,
+          "swim_date": 2014,
+          "full_name_computed": "NING, Zetao"
+        },
+        "116": {
+          "swim_time": 47.65,
+          "swim_date": 2014,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "117": {
+          "swim_time": 47.66,
+          "swim_date": 2023,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "118": {
+          "swim_time": 47.66,
+          "swim_date": 2017,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "119": {
+          "swim_time": 47.66,
+          "swim_date": 2009,
+          "full_name_computed": "NYSTRAND, Stefan"
+        },
+        "120": {
+          "swim_time": 47.67,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "121": {
+          "swim_time": 47.67,
+          "swim_date": 2022,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "122": {
+          "swim_time": 47.67,
+          "swim_date": 2013,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "123": {
+          "swim_time": 47.67,
+          "swim_date": 2008,
+          "full_name_computed": "CIELO FILHO, Cesar"
+        },
+        "124": {
+          "swim_time": 47.67,
+          "swim_date": 2008,
+          "full_name_computed": "LEZAK, Jason"
+        },
+        "125": {
+          "swim_time": 47.68,
+          "swim_date": 2023,
+          "full_name_computed": "ALEXY, Jack"
+        },
+        "126": {
+          "swim_time": 47.68,
+          "swim_date": 2019,
+          "full_name_computed": "CHIERIGHINI, Marcelo"
+        },
+        "127": {
+          "swim_time": 47.68,
+          "swim_date": 2008,
+          "full_name_computed": "VAN DEN HOOGENBAND, Pieter"
+        },
+        "128": {
+          "swim_time": 47.69,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "129": {
+          "swim_time": 47.69,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "130": {
+          "swim_time": 47.69,
+          "swim_date": 2022,
+          "full_name_computed": "NEMETH, Nandor"
+        },
+        "131": {
+          "swim_time": 47.69,
+          "swim_date": 2019,
+          "full_name_computed": "APPLE, Zach"
+        },
+        "132": {
+          "swim_time": 47.7,
+          "swim_date": 2021,
+          "full_name_computed": "KOLESNIKOV, Kliment"
+        },
+        "133": {
+          "swim_time": 47.7,
+          "swim_date": 2014,
+          "full_name_computed": "NING, Zetao"
+        },
+        "134": {
+          "swim_time": 47.71,
+          "swim_date": 2023,
+          "full_name_computed": "CROOKS, Jordan"
+        },
+        "135": {
+          "swim_time": 47.71,
+          "swim_date": 2023,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "136": {
+          "swim_time": 47.71,
+          "swim_date": 2022,
+          "full_name_computed": "LIENDO, Josh"
+        },
+        "137": {
+          "swim_time": 47.71,
+          "swim_date": 2021,
+          "full_name_computed": "CECCON, Thomas"
+        },
+        "138": {
+          "swim_time": 47.71,
+          "swim_date": 2021,
+          "full_name_computed": "MINAKOV, Andrei"
+        },
+        "139": {
+          "swim_time": 47.71,
+          "swim_date": 2013,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "140": {
+          "swim_time": 47.71,
+          "swim_date": 2013,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "141": {
+          "swim_time": 47.72,
+          "swim_date": 2023,
+          "full_name_computed": "RICHARDS, Matthew"
+        },
+        "142": {
+          "swim_time": 47.72,
+          "swim_date": 2021,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "143": {
+          "swim_time": 47.72,
+          "swim_date": 2021,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "144": {
+          "swim_time": 47.72,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "145": {
+          "swim_time": 47.72,
+          "swim_date": 2021,
+          "full_name_computed": "APPLE, Zach"
+        },
+        "146": {
+          "swim_time": 47.72,
+          "swim_date": 2016,
+          "full_name_computed": "ADRIAN, Nathan"
+        },
+        "147": {
+          "swim_time": 47.73,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "148": {
+          "swim_time": 47.73,
+          "swim_date": 2014,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "149": {
+          "swim_time": 47.73,
+          "swim_date": 2009,
+          "full_name_computed": "GILOT, Fabien"
+        },
+        "150": {
+          "swim_time": 47.74,
+          "swim_date": 2021,
+          "full_name_computed": "MINAKOV, Andrei"
+        },
+        "151": {
+          "swim_time": 47.74,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "152": {
+          "swim_time": 47.74,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "153": {
+          "swim_time": 47.75,
+          "swim_date": 2023,
+          "full_name_computed": "ALEXY, Jack"
+        },
+        "154": {
+          "swim_time": 47.75,
+          "swim_date": 2019,
+          "full_name_computed": "ROONEY, Maxime"
+        },
+        "155": {
+          "swim_time": 47.75,
+          "swim_date": 2018,
+          "full_name_computed": "MOROZOV, Vladimir"
+        },
+        "156": {
+          "swim_time": 47.75,
+          "swim_date": 2014,
+          "full_name_computed": "MAGNUSSEN, James"
+        },
+        "157": {
+          "swim_time": 47.75,
+          "swim_date": 2008,
+          "full_name_computed": "VAN DEN HOOGENBAND, Pieter"
+        },
+        "158": {
+          "swim_time": 47.76,
+          "swim_date": 2022,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "159": {
+          "swim_time": 47.76,
+          "swim_date": 2022,
+          "full_name_computed": "MILAK, Kristof"
+        },
+        "160": {
+          "swim_time": 47.76,
+          "swim_date": 2022,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "161": {
+          "swim_time": 47.76,
+          "swim_date": 2019,
+          "full_name_computed": "CHIERIGHINI, Marcelo"
+        },
+        "162": {
+          "swim_time": 47.76,
+          "swim_date": 2008,
+          "full_name_computed": "LEVEAUX, Amaury"
+        },
+        "163": {
+          "swim_time": 47.77,
+          "swim_date": 2023,
+          "full_name_computed": "CROOKS, Jordan"
+        },
+        "164": {
+          "swim_time": 47.77,
+          "swim_date": 2023,
+          "full_name_computed": "SOUTHAM, Flynn"
+        },
+        "165": {
+          "swim_time": 47.77,
+          "swim_date": 2021,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "166": {
+          "swim_time": 47.77,
+          "swim_date": 2021,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "167": {
+          "swim_time": 47.77,
+          "swim_date": 2021,
+          "full_name_computed": "MINAKOV, Andrei"
+        },
+        "168": {
+          "swim_time": 47.77,
+          "swim_date": 2009,
+          "full_name_computed": "HAYDEN, Brent"
+        },
+        "169": {
+          "swim_time": 47.78,
+          "swim_date": 2023,
+          "full_name_computed": "GIREV, Ivan"
+        },
+        "170": {
+          "swim_time": 47.78,
+          "swim_date": 2022,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "171": {
+          "swim_time": 47.78,
+          "swim_date": 2022,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "172": {
+          "swim_time": 47.78,
+          "swim_date": 2021,
+          "full_name_computed": "APPLE, Zach"
+        },
+        "173": {
+          "swim_time": 47.78,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "174": {
+          "swim_time": 47.78,
+          "swim_date": 2009,
+          "full_name_computed": "OLIVEIRA, Nicolas"
+        },
+        "175": {
+          "swim_time": 47.78,
+          "swim_date": 2009,
+          "full_name_computed": "PHELPS, Michael"
+        },
+        "176": {
+          "swim_time": 47.79,
+          "swim_date": 2023,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "177": {
+          "swim_time": 47.79,
+          "swim_date": 2022,
+          "full_name_computed": "PAN, Zhanle"
+        },
+        "178": {
+          "swim_time": 47.79,
+          "swim_date": 2022,
+          "full_name_computed": "DRESSEL, Caeleb"
+        },
+        "179": {
+          "swim_time": 47.79,
+          "swim_date": 2019,
+          "full_name_computed": "APPLE, Zach"
+        },
+        "180": {
+          "swim_time": 47.79,
+          "swim_date": 2009,
+          "full_name_computed": "FERNS, Lyndon"
+        },
+        "181": {
+          "swim_time": 47.8,
+          "swim_date": 2021,
+          "full_name_computed": "CHALMERS, Kyle"
+        },
+        "182": {
+          "swim_time": 47.8,
+          "swim_date": 2016,
+          "full_name_computed": "TIMMERS, Pieter"
+        },
+        "183": {
+          "swim_time": 47.8,
+          "swim_date": 2012,
+          "full_name_computed": "HAYDEN, Brent"
+        },
+        "184": {
+          "swim_time": 47.8,
+          "swim_date": 2009,
+          "full_name_computed": "BERNARD, Alain"
+        },
+        "185": {
+          "swim_time": 47.8,
+          "swim_date": 2008,
+          "full_name_computed": "SULLIVAN, Eamon"
+        },
+        "186": {
+          "swim_time": 47.81,
+          "swim_date": 2021,
+          "full_name_computed": "NEMETH, Nandor"
+        },
+        "187": {
+          "swim_time": 47.81,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "188": {
+          "swim_time": 47.82,
+          "swim_date": 2022,
+          "full_name_computed": "SANTOS, Guilherme"
+        },
+        "189": {
+          "swim_time": 47.82,
+          "swim_date": 2021,
+          "full_name_computed": "HWANG, Sunwoo"
+        },
+        "190": {
+          "swim_time": 47.82,
+          "swim_date": 2021,
+          "full_name_computed": "GROUSSET, Maxime"
+        },
+        "191": {
+          "swim_time": 47.82,
+          "swim_date": 2021,
+          "full_name_computed": "MINAKOV, Andrei"
+        },
+        "192": {
+          "swim_time": 47.82,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "193": {
+          "swim_time": 47.82,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "194": {
+          "swim_time": 47.82,
+          "swim_date": 2014,
+          "full_name_computed": "MCEVOY, Cameron"
+        },
+        "195": {
+          "swim_time": 47.82,
+          "swim_date": 2013,
+          "full_name_computed": "FEIGEN, Jimmy"
+        },
+        "196": {
+          "swim_time": 47.83,
+          "swim_date": 2023,
+          "full_name_computed": "POPOVICI, David"
+        },
+        "197": {
+          "swim_time": 47.83,
+          "swim_date": 2022,
+          "full_name_computed": "DEAN, Tom"
+        },
+        "198": {
+          "swim_time": 47.83,
+          "swim_date": 2021,
+          "full_name_computed": "MIRESSI, Alessandro"
+        },
+        "199": {
+          "swim_time": 47.83,
+          "swim_date": 2019,
+          "full_name_computed": "GRINEV, Vladislav"
+        },
+        "200": {
+          "swim_time": 47.83,
+          "swim_date": 2016,
+          "full_name_computed": "ADRIAN, Nathan"
+        }
+      },
+      "female": {
+        "1": {
+          "swim_time": 51.71,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "2": {
+          "swim_time": 51.96,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "3": {
+          "swim_time": 52.02,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "4": {
+          "swim_time": 52.03,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "5": {
+          "swim_time": 52.04,
+          "swim_date": 2019,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "6": {
+          "swim_time": 52.06,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "7": {
+          "swim_time": 52.07,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "8": {
+          "swim_time": 52.08,
+          "swim_date": 2023,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "9": {
+          "swim_time": 52.08,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "10": {
+          "swim_time": 52.12,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "11": {
+          "swim_time": 52.13,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "12": {
+          "swim_time": 52.16,
+          "swim_date": 2023,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "13": {
+          "swim_time": 52.17,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "14": {
+          "swim_time": 52.19,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "15": {
+          "swim_time": 52.22,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "16": {
+          "swim_time": 52.23,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "17": {
+          "swim_time": 52.24,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "18": {
+          "swim_time": 52.24,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "19": {
+          "swim_time": 52.27,
+          "swim_date": 2021,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "20": {
+          "swim_time": 52.27,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "21": {
+          "swim_time": 52.27,
+          "swim_date": 2017,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "22": {
+          "swim_time": 52.28,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "23": {
+          "swim_time": 52.28,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "24": {
+          "swim_time": 52.29,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "25": {
+          "swim_time": 52.31,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "26": {
+          "swim_time": 52.32,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "27": {
+          "swim_time": 52.33,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "28": {
+          "swim_time": 52.34,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "29": {
+          "swim_time": 52.34,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "30": {
+          "swim_time": 52.35,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "31": {
+          "swim_time": 52.35,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "32": {
+          "swim_time": 52.37,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "33": {
+          "swim_time": 52.38,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "34": {
+          "swim_time": 52.38,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "35": {
+          "swim_time": 52.4,
+          "swim_date": 2021,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "36": {
+          "swim_time": 52.41,
+          "swim_date": 2019,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "37": {
+          "swim_time": 52.43,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "38": {
+          "swim_time": 52.43,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "39": {
+          "swim_time": 52.43,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "40": {
+          "swim_time": 52.44,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "41": {
+          "swim_time": 52.44,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "42": {
+          "swim_time": 52.46,
+          "swim_date": 2020,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "43": {
+          "swim_time": 52.46,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "44": {
+          "swim_time": 52.48,
+          "swim_date": 2023,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "45": {
+          "swim_time": 52.49,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "46": {
+          "swim_time": 52.49,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "47": {
+          "swim_time": 52.49,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "48": {
+          "swim_time": 52.5,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "49": {
+          "swim_time": 52.51,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "50": {
+          "swim_time": 52.52,
+          "swim_date": 2023,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "51": {
+          "swim_time": 52.52,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "52": {
+          "swim_time": 52.52,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "53": {
+          "swim_time": 52.54,
+          "swim_date": 2018,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "54": {
+          "swim_time": 52.54,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "55": {
+          "swim_time": 52.55,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "56": {
+          "swim_time": 52.56,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "57": {
+          "swim_time": 52.57,
+          "swim_date": 2023,
+          "full_name_computed": "DOUGLASS, Kate"
+        },
+        "58": {
+          "swim_time": 52.58,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "59": {
+          "swim_time": 52.59,
+          "swim_date": 2021,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "60": {
+          "swim_time": 52.59,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "61": {
+          "swim_time": 52.59,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "62": {
+          "swim_time": 52.59,
+          "swim_date": 2017,
+          "full_name_computed": "COMERFORD, Mallory"
+        },
+        "63": {
+          "swim_time": 52.6,
+          "swim_date": 2022,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "64": {
+          "swim_time": 52.6,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "65": {
+          "swim_time": 52.61,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "66": {
+          "swim_time": 52.61,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "67": {
+          "swim_time": 52.62,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "68": {
+          "swim_time": 52.62,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "69": {
+          "swim_time": 52.62,
+          "swim_date": 2009,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "70": {
+          "swim_time": 52.63,
+          "swim_date": 2023,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "71": {
+          "swim_time": 52.63,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "72": {
+          "swim_time": 52.64,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "73": {
+          "swim_time": 52.64,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "74": {
+          "swim_time": 52.64,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "75": {
+          "swim_time": 52.64,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "76": {
+          "swim_time": 52.64,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "77": {
+          "swim_time": 52.66,
+          "swim_date": 2018,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "78": {
+          "swim_time": 52.67,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "79": {
+          "swim_time": 52.67,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "80": {
+          "swim_time": 52.67,
+          "swim_date": 2014,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "81": {
+          "swim_time": 52.68,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "82": {
+          "swim_time": 52.68,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "83": {
+          "swim_time": 52.68,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "84": {
+          "swim_time": 52.69,
+          "swim_date": 2018,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "85": {
+          "swim_time": 52.69,
+          "swim_date": 2017,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "86": {
+          "swim_time": 52.69,
+          "swim_date": 2017,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "87": {
+          "swim_time": 52.69,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "88": {
+          "swim_time": 52.69,
+          "swim_date": 2015,
+          "full_name_computed": "HEEMSKERK, Femke"
+        },
+        "89": {
+          "swim_time": 52.69,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "90": {
+          "swim_time": 52.7,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "91": {
+          "swim_time": 52.7,
+          "swim_date": 2021,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "92": {
+          "swim_time": 52.7,
+          "swim_date": 2016,
+          "full_name_computed": "MANUEL, Simone"
+        },
+        "93": {
+          "swim_time": 52.7,
+          "swim_date": 2016,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "94": {
+          "swim_time": 52.7,
+          "swim_date": 2015,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "95": {
+          "swim_time": 52.71,
+          "swim_date": 2023,
+          "full_name_computed": "STEENBERGEN, Marrit"
+        },
+        "96": {
+          "swim_time": 52.71,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "97": {
+          "swim_time": 52.71,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "98": {
+          "swim_time": 52.71,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "99": {
+          "swim_time": 52.71,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "100": {
+          "swim_time": 52.72,
+          "swim_date": 2018,
+          "full_name_computed": "RUCK, Taylor"
+        },
+        "101": {
+          "swim_time": 52.72,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "102": {
+          "swim_time": 52.72,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "103": {
+          "swim_time": 52.72,
+          "swim_date": 2016,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "104": {
+          "swim_time": 52.72,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "105": {
+          "swim_time": 52.73,
+          "swim_date": 2014,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "106": {
+          "swim_time": 52.74,
+          "swim_date": 2018,
+          "full_name_computed": "BONNET, Charlotte"
+        },
+        "107": {
+          "swim_time": 52.74,
+          "swim_date": 2018,
+          "full_name_computed": "BONNET, Charlotte"
+        },
+        "108": {
+          "swim_time": 52.75,
+          "swim_date": 2021,
+          "full_name_computed": "HOPKIN, Anna"
+        },
+        "109": {
+          "swim_time": 52.75,
+          "swim_date": 2019,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "110": {
+          "swim_time": 52.75,
+          "swim_date": 2012,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "111": {
+          "swim_time": 52.76,
+          "swim_date": 2023,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "112": {
+          "swim_time": 52.76,
+          "swim_date": 2021,
+          "full_name_computed": "WILSON, Madison"
+        },
+        "113": {
+          "swim_time": 52.76,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "114": {
+          "swim_time": 52.76,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "115": {
+          "swim_time": 52.77,
+          "swim_date": 2019,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "116": {
+          "swim_time": 52.77,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "117": {
+          "swim_time": 52.77,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "118": {
+          "swim_time": 52.77,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "119": {
+          "swim_time": 52.77,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "120": {
+          "swim_time": 52.77,
+          "swim_date": 2017,
+          "full_name_computed": "COMERFORD, Mallory"
+        },
+        "121": {
+          "swim_time": 52.78,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "122": {
+          "swim_time": 52.78,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "123": {
+          "swim_time": 52.78,
+          "swim_date": 2017,
+          "full_name_computed": "KROMOWIDJOJO, Ranomi"
+        },
+        "124": {
+          "swim_time": 52.78,
+          "swim_date": 2017,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "125": {
+          "swim_time": 52.78,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "126": {
+          "swim_time": 52.78,
+          "swim_date": 2016,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "127": {
+          "swim_time": 52.78,
+          "swim_date": 2015,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "128": {
+          "swim_time": 52.79,
+          "swim_date": 2021,
+          "full_name_computed": "HEEMSKERK, Femke"
+        },
+        "129": {
+          "swim_time": 52.79,
+          "swim_date": 2018,
+          "full_name_computed": "IKEE, Rikako"
+        },
+        "130": {
+          "swim_time": 52.79,
+          "swim_date": 2015,
+          "full_name_computed": "HEEMSKERK, Femke"
+        },
+        "131": {
+          "swim_time": 52.8,
+          "swim_date": 2022,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "132": {
+          "swim_time": 52.8,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "133": {
+          "swim_time": 52.8,
+          "swim_date": 2016,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "134": {
+          "swim_time": 52.81,
+          "swim_date": 2023,
+          "full_name_computed": "DOUGLASS, Kate"
+        },
+        "135": {
+          "swim_time": 52.81,
+          "swim_date": 2017,
+          "full_name_computed": "COMERFORD, Mallory"
+        },
+        "136": {
+          "swim_time": 52.82,
+          "swim_date": 2023,
+          "full_name_computed": "STEENBERGEN, Marrit"
+        },
+        "137": {
+          "swim_time": 52.82,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "138": {
+          "swim_time": 52.82,
+          "swim_date": 2019,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "139": {
+          "swim_time": 52.82,
+          "swim_date": 2016,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "140": {
+          "swim_time": 52.82,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "141": {
+          "swim_time": 52.83,
+          "swim_date": 2023,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "142": {
+          "swim_time": 52.83,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "143": {
+          "swim_time": 52.83,
+          "swim_date": 2021,
+          "full_name_computed": "HOPKIN, Anna"
+        },
+        "144": {
+          "swim_time": 52.83,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "145": {
+          "swim_time": 52.83,
+          "swim_date": 2018,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "146": {
+          "swim_time": 52.83,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "147": {
+          "swim_time": 52.84,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "148": {
+          "swim_time": 52.84,
+          "swim_date": 2019,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "149": {
+          "swim_time": 52.84,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "150": {
+          "swim_time": 52.84,
+          "swim_date": 2015,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "151": {
+          "swim_time": 52.84,
+          "swim_date": 2009,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "152": {
+          "swim_time": 52.85,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "153": {
+          "swim_time": 52.85,
+          "swim_date": 2022,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "154": {
+          "swim_time": 52.85,
+          "swim_date": 2021,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "155": {
+          "swim_time": 52.85,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "156": {
+          "swim_time": 52.85,
+          "swim_date": 2018,
+          "full_name_computed": "RUCK, Taylor"
+        },
+        "157": {
+          "swim_time": 52.85,
+          "swim_date": 2017,
+          "full_name_computed": "COMERFORD, Mallory"
+        },
+        "158": {
+          "swim_time": 52.85,
+          "swim_date": 2017,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "159": {
+          "swim_time": 52.85,
+          "swim_date": 2016,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "160": {
+          "swim_time": 52.85,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "161": {
+          "swim_time": 52.86,
+          "swim_date": 2023,
+          "full_name_computed": "O'CALLAGHAN, Mollie"
+        },
+        "162": {
+          "swim_time": 52.86,
+          "swim_date": 2023,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "163": {
+          "swim_time": 52.86,
+          "swim_date": 2021,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "164": {
+          "swim_time": 52.86,
+          "swim_date": 2017,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "165": {
+          "swim_time": 52.86,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Bronte"
+        },
+        "166": {
+          "swim_time": 52.87,
+          "swim_date": 2020,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "167": {
+          "swim_time": 52.87,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "168": {
+          "swim_time": 52.87,
+          "swim_date": 2013,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "169": {
+          "swim_time": 52.87,
+          "swim_date": 2009,
+          "full_name_computed": "HALSALL, Fran"
+        },
+        "170": {
+          "swim_time": 52.87,
+          "swim_date": 2009,
+          "full_name_computed": "STEFFEN, Britta"
+        },
+        "171": {
+          "swim_time": 52.88,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "172": {
+          "swim_time": 52.88,
+          "swim_date": 2022,
+          "full_name_computed": "JACK, Shayna"
+        },
+        "173": {
+          "swim_time": 52.88,
+          "swim_date": 2008,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "174": {
+          "swim_time": 52.89,
+          "swim_date": 2023,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "175": {
+          "swim_time": 52.89,
+          "swim_date": 2021,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "176": {
+          "swim_time": 52.89,
+          "swim_date": 2014,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "177": {
+          "swim_time": 52.89,
+          "swim_date": 2013,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "178": {
+          "swim_time": 52.9,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "179": {
+          "swim_time": 52.9,
+          "swim_date": 2021,
+          "full_name_computed": "ZHANG, Yufei"
+        },
+        "180": {
+          "swim_time": 52.9,
+          "swim_date": 2020,
+          "full_name_computed": "ZHANG, Yufei"
+        },
+        "181": {
+          "swim_time": 52.91,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "182": {
+          "swim_time": 52.92,
+          "swim_date": 2023,
+          "full_name_computed": "WEITZEIL, Abbey"
+        },
+        "183": {
+          "swim_time": 52.92,
+          "swim_date": 2022,
+          "full_name_computed": "HUSKE, Torri"
+        },
+        "184": {
+          "swim_time": 52.92,
+          "swim_date": 2021,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "185": {
+          "swim_time": 52.92,
+          "swim_date": 2021,
+          "full_name_computed": "HARRIS, Meg"
+        },
+        "186": {
+          "swim_time": 52.92,
+          "swim_date": 2013,
+          "full_name_computed": "CAMPBELL, Cate"
+        },
+        "187": {
+          "swim_time": 52.93,
+          "swim_date": 2021,
+          "full_name_computed": "HEEMSKERK, Femke"
+        },
+        "188": {
+          "swim_time": 52.93,
+          "swim_date": 2018,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "189": {
+          "swim_time": 52.93,
+          "swim_date": 2009,
+          "full_name_computed": "LENTON, Libby"
+        },
+        "190": {
+          "swim_time": 52.94,
+          "swim_date": 2023,
+          "full_name_computed": "HAUGHEY, Siobhan Bernadette"
+        },
+        "191": {
+          "swim_time": 52.94,
+          "swim_date": 2022,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "192": {
+          "swim_time": 52.94,
+          "swim_date": 2018,
+          "full_name_computed": "COMERFORD, Mallory"
+        },
+        "193": {
+          "swim_time": 52.94,
+          "swim_date": 2017,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "194": {
+          "swim_time": 52.95,
+          "swim_date": 2021,
+          "full_name_computed": "OLEKSIAK, Penny"
+        },
+        "195": {
+          "swim_time": 52.95,
+          "swim_date": 2021,
+          "full_name_computed": "SJOESTROEM, Sarah"
+        },
+        "196": {
+          "swim_time": 52.95,
+          "swim_date": 2021,
+          "full_name_computed": "MCKEON, Emma"
+        },
+        "197": {
+          "swim_time": 52.96,
+          "swim_date": 2023,
+          "full_name_computed": "STEENBERGEN, Marrit"
+        },
+        "198": {
+          "swim_time": 52.96,
+          "swim_date": 2022,
+          "full_name_computed": "HUSKE, Torri"
+        },
+        "199": {
+          "swim_time": 52.96,
+          "swim_date": 2021,
+          "full_name_computed": "BLUME, Pernille"
+        },
+        "200": {
+          "swim_time": 52.96,
+          "swim_date": 2019,
+          "full_name_computed": "CAMPBELL, Cate"
+        }
+      }
     }
+  }
 }
