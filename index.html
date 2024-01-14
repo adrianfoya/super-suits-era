@@ -5,6 +5,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
     <script src="./swimmer_scroll.js"></script>
     <script src="js/jquery-3.7.1.min.js"></script>
+
     <title>La Era de los super trajes</title>
   </head>
   <body>
@@ -22,9 +23,9 @@
       <img src="./img/Nadador.svg" alt="swimmer1" id="sw1" />
       <div id="desarrollo">
         <p>
-          Han pasado  14 años desde que los trajes de baño de alta
-          tecnología fueron prohibidos por la Federación Interncacional de
-          Natación (FINA) pero estos están lejos de ser un recuerdo distante.
+          Han pasado 14 años desde que los trajes de baño de alta tecnología
+          fueron prohibidos por la Federación Interncacional de Natación (FINA)
+          pero estos están lejos de ser un recuerdo distante.
         </p>
         <p>
           El impacto que tuvieron estos llamados "super trajes" entre 2008 y
@@ -50,9 +51,39 @@
         </p>
         <p>
           ¿Son los nadarores actuales tan rápidos como los nadadores de la
-          llamada "era de los super trajes"? Esa es la preguna que vamos a
+          llamada "era de los super trajes"? Esa es la pregunta que vamos a
           intentar responder.
         </p>
+        <h2>El legado de los super trajes.</h2>
+        <p>
+          En 2008, Speedo lanzó el traje LZR Racer, agregando paneles de
+          poliuretano a su diseño existente y reemplazando el recubrimiento de
+          teflón utilizado en modelos anteriores. Cuanto más poliuretano tenían
+          los trajes, menos resistencia creaban. Como resultado se rompieron 55
+          récords mundiales ese año en piscina de curso largo, 25 de ellos
+          durante los Juegos Olímpicos de Beijing.
+        </p>
+        <p>
+          En 2009, otros fabricantes como Jaked y Arena fueron más allá y
+          fabricaron sus trajes completamente con poliuretano, lo que permitió a
+          los nadadores deslizarse aún más rápido por el agua. Ese año se
+          rompieron 67 récords mundiales en curso largo, 43 de estos en el
+          Campeonato Mundial de Roma.
+        </p>
+        <p>
+          Es cierto que, hasta el día de hoy, la mayoría de las marcas más
+          rápidas de la historia se establecieron en este período. Y algunas de
+          estas aún parecen estar adelantadas a nuestros tiempos. Pero la
+          natación ha evolucionado y la mayoría de los récords mundiales
+          establecidos en super trajes ya han sido superados. De los 34 eventos
+          individuales reconocidos oficialmente por World Aquatics en curso
+          largo, 28 han visto récords mundiales desde 2010.
+        </p>
+        <h2>Un pequeño análisis.</h2>
+        <div id="container">
+          <h4>Promedio 50 libre por ano</h4>
+          <canvas id="canvas"></canvas>
+        </div>
       </div>
       <script>
         // Obtén la referencia a la imagen por su ID
@@ -94,5 +125,7 @@
         window.addEventListener("scroll", alternarImagenYPosicion);
       </script>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+    <script src="script.js"></script>
   </body>
 </html>
