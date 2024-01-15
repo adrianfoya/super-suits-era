@@ -19,7 +19,7 @@
       <h id="author">por Adrián Navarro</h>
     </div>
     <div id="main">
-      <img src="./img/Piscina.jpg" alt="pool" id="pool" />
+      <img src="./img/pool.jpg" alt="pool" id="pool" />
       <img src="./img/Nadador.svg" alt="swimmer1" id="sw1" />
       <div id="desarrollo">
         <p>
@@ -100,6 +100,20 @@
           2009, lo cual es inusual ya que 2009 no era un año Olímpico. Esto sin
           dudas se debe a los super trajes.
         </p>
+        <h2>2009 vs 2023</h2>
+        <p>
+          Analicemos qué tan bien están situados los tiempos de 2008-2009 en el
+          ranking histórico. De los 40 eventos oficiales en campeonatos del
+          mundo (34 individuales y 6 relevos) 8 poseen un récord mundial que
+          data de este período,es decir, un 20%, como se podrá observar en la siguiente gráfica.
+        </p>
+        <h4 style="text-align: center">De los récors mundiales actuales cuántos se hicieron en cada año.</h4>
+        <div id="container2">
+          <canvas id="canvas2"></canvas>
+        </div>
+        <p>
+          Nótese que ninguno de los récords actuales data de una fecha anterior a 2008.
+        </p>
       </div>
       <script>
         // Obtén la referencia a la imagen por su ID
@@ -107,7 +121,7 @@
 
         // Define el límite superior e inferior para la posición de la imagen
         var limiteSuperior = 800; // Este es el límite superior en píxeles
-        var limiteInferior = 2500; // Este es el límite inferior en píxeles
+        var limiteInferior = 3500; // Este es el límite inferior en píxeles
 
         // URL de las imágenes que quieres alternar
         var imagen1 = "./img/Nadador.svg";

@@ -86,7 +86,7 @@ new Chart(ctx, {
         label: "femenino",
         data: femaleAverages,
         backgroundcolor: "transparent",
-        borderColor: "red",
+        borderColor: "hotpink",
         borderWidth: 4,
       },
     ],
@@ -109,4 +109,14 @@ new Chart(ctx, {
   },
 });
 
-
+var cty = document.getElementById('canvas2').getContext('2d');
+var myChart = new Chart(cty, {
+    type: 'doughnut',
+    data: {
+        labels: ['2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017', '2018', '2019', '2020', '2021', '2022', '2023'],
+        datasets: [{
+          data: [1,7,0,1,1,0,1,1,2,3,2,2,0,2,3,14], // Replace with your data
+          backgroundColor: ['#abc4ff','#ffc09f','#ffee93', '#a0ced9', '#adf7b6','#eac4d5','#d4afb9','#9cadce','#7ec4cf','#52b2cf','#d3ab9e','#fb6f92','#adf7b6','#79addc','#ff686b','#55d6c2' ], // Distinct colors
+        }]
+    },
+});
