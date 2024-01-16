@@ -59,7 +59,7 @@
           En 2008, Speedo lanzó el traje LZR Racer, agregando paneles de
           poliuretano a su diseño existente y reemplazando el recubrimiento de
           teflón utilizado en modelos anteriores. Cuanto más poliuretano tenían
-          los trajes, menos resistencia creaban. Como resultado se rompieron 55
+          los trajes, menos resistencia creaban en el agua. Como resultado se rompieron 55
           récords mundiales ese año en piscina de curso largo, 25 de ellos
           durante los Juegos Olímpicos de Beijing.
         </p>
@@ -67,7 +67,7 @@
           En 2009, otros fabricantes como Jaked y Arena fueron más allá y
           fabricaron sus trajes completamente con poliuretano, lo que permitió a
           los nadadores deslizarse aún más rápido por el agua. Ese año se
-          rompieron 67 récords mundiales en curso largo, 43 de estos en el
+          rompieron 67 récords mundiales en curso largo, 42 de estos en el
           Campeonato Mundial de Roma.
         </p>
         <p>
@@ -105,14 +105,39 @@
           Analicemos qué tan bien están situados los tiempos de 2008-2009 en el
           ranking histórico. De los 40 eventos oficiales en campeonatos del
           mundo (34 individuales y 6 relevos) 8 poseen un récord mundial que
-          data de este período,es decir, un 20%, como se podrá observar en la siguiente gráfica.
+          data de este período,es decir, un 20%, como se podrá observar en la
+          siguiente gráfica.
         </p>
-        <h4 style="text-align: center">De los récors mundiales actuales cuántos se hicieron en cada año.</h4>
+        <h4 style="text-align: center">
+          De los récors mundiales actuales cuántos se hicieron en cada año.
+        </h4>
         <div id="container2">
           <canvas id="canvas2"></canvas>
         </div>
         <p>
-          Nótese que ninguno de los récords actuales data de una fecha anterior a 2008.
+          Nótese que ninguno de los récords actuales data de una fecha anterior
+          a 2008.
+        </p>
+        <p>
+          Pero este análisis no es suficiente para determinar el impacto del
+          perído 2008-2009 en el deporte. Veamos ahora, en el top 50 de los
+          nadadores más rápidos en cada evento, cuántos hicieron su mejor marca
+          con super trajes.
+        </p>
+        <div id="container3">
+          <h4>
+            Cantidad de nadadores en el top 50 de cada evento con marcas de
+            2008-2009
+          </h4>
+          <canvas id="canvas3"></canvas>
+        </div>
+        <p>
+          Llama la atención en esta gráfica el hecho de que a los hombres les ha
+          costado más que a las mujeres superar las marcas con super trajes. De
+          todos los eventos el 50 y 100 libre masculino fueron los que más
+          "aprovecharon" esta ventaja. Otro detalle a destacar es que el 200
+          mariposa aún posee una gran cantidad de marcas de esta época en ambos
+          sexos, esto de puede deber a cuán desgastante es este evento.
         </p>
       </div>
       <script>
@@ -144,7 +169,8 @@
           img.style.top = newTop + "px";
 
           // Alternar entre las imágenes en función de la posición de scroll
-          if (scrollTop > scrollLimit / 2) {
+          var entero = Math.floor(scrollTop);
+          if (entero%2==0) {
             img.src = imagen2; // Muestra la segunda imagen si el scroll supera la mitad del límite
           } else {
             img.src = imagen1; // Muestra la primera imagen si no
