@@ -19,7 +19,7 @@
       <h id="author">por Adrián Navarro</h>
     </div>
     <div id="main">
-      <img src="./img/pool.jpg" alt="pool" id="pool" />
+      <img src="./img/piscina4.jpg" alt="pool" id="pool" />
       <img src="./img/Nadador.svg" alt="swimmer1" id="sw1" />
       <div id="desarrollo">
         <p>
@@ -50,7 +50,7 @@
           libres, acabando así con el reinado de 13 años de César Cielo.
         </p>
         <p>
-          ¿Son los nadarores actuales tan rápidos como los nadadores de la
+          ¿Son los nadadores actuales tan rápidos como los nadadores de la
           llamada "era de los super trajes"? Esa es la pregunta que vamos a
           intentar responder.
         </p>
@@ -59,9 +59,9 @@
           En 2008, Speedo lanzó el traje LZR Racer, agregando paneles de
           poliuretano a su diseño existente y reemplazando el recubrimiento de
           teflón utilizado en modelos anteriores. Cuanto más poliuretano tenían
-          los trajes, menos resistencia creaban en el agua. Como resultado se rompieron 55
-          récords mundiales ese año en piscina de curso largo, 25 de ellos
-          durante los Juegos Olímpicos de Beijing.
+          los trajes, menos resistencia creaban en el agua. Como resultado se
+          rompieron 55 récords mundiales ese año en piscina de curso largo, 25
+          de ellos durante los Juegos Olímpicos de Beijing.
         </p>
         <p>
           En 2009, otros fabricantes como Jaked y Arena fueron más allá y
@@ -70,6 +70,14 @@
           rompieron 67 récords mundiales en curso largo, 42 de estos en el
           Campeonato Mundial de Roma.
         </p>
+        <figure style="text-align: center; font-size: 21px; font-weight: bold">
+          <img
+            src="./img/phelpsLZR.jpg"
+            alt="Michael Phelps usando la Speedo LZR Racer"
+            id="phelps"
+          />
+          <figcaption>Michael Phelps en Roma 2009</figcaption>
+        </figure>
         <p>
           Es cierto que, hasta el día de hoy, la mayoría de las marcas más
           rápidas de la historia se establecieron en este período. Y algunas de
@@ -139,14 +147,35 @@
           mariposa aún posee una gran cantidad de marcas de esta época en ambos
           sexos, esto de puede deber a cuán desgastante es este evento.
         </p>
-      </div>
+        <h2>Concluyendo.</h2>
+        <p>
+          Podemos decir que las marcas realizadas en 2008-2009 estuvieron muy
+          adelantadas a su tiempo. Sin embargo, adjudicarle estos resultados al
+          hecho de que los atletas llevaban los super trajes, tiende a minimizar
+          lo logrado en el deporte en 2008-2009.
+        </p>
+        <p>
+          Es cierto que si los atletas nunca hubieran utilizado estos trajes de
+          alta tecnología tal vez Phelps nunca hubiera perdido ese 200m libre
+          contra Biedderman en Roma, o tal vez Cielo y Bousquet nunca hubieran
+          bajado de la barrera de los 21 segundos. Lo que si es cierto es que
+          esta alocada época de récords atrajo las miradas de muchos fanáticos
+          al deporte.
+        </p>
+        <p>
+          Incluso la prohibición de estos provocó una revolución en el
+          deporte. Se crearon nuevos métodos de entrenamiento, se le dió más
+          impoortancia a las arrancadas, las vueltas y los subacuáticos; todo en
+          pos de lograr marcas cercanas a las de ese perído.
+        </p>
+      
       <script>
         // Obtén la referencia a la imagen por su ID
         var img = document.getElementById("sw1");
 
         // Define el límite superior e inferior para la posición de la imagen
         var limiteSuperior = 800; // Este es el límite superior en píxeles
-        var limiteInferior = 3500; // Este es el límite inferior en píxeles
+        var limiteInferior = 5000; // Este es el límite inferior en píxeles
 
         // URL de las imágenes que quieres alternar
         var imagen1 = "./img/Nadador.svg";
@@ -170,7 +199,7 @@
 
           // Alternar entre las imágenes en función de la posición de scroll
           var entero = Math.floor(scrollTop);
-          if (entero%2==0) {
+          if (entero % 2 == 0) {
             img.src = imagen2; // Muestra la segunda imagen si el scroll supera la mitad del límite
           } else {
             img.src = imagen1; // Muestra la primera imagen si no
@@ -180,6 +209,12 @@
         // Agrega el handler para el evento de scroll
         window.addEventListener("scroll", alternarImagenYPosicion);
       </script>
+    </div>
+    <div id="method">
+      <h2>Metodología</h2>
+      <p>
+        Los datos fueron recogidos de la página de World Aquatics. Los datos que se utilizaron fueron
+      </p>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
     <script src="script.js"></script>
